@@ -1,24 +1,17 @@
 #  My Reading List
 
 
-
-
-
-## Leadership
-
-
+## Leadership 
 
 ## Cyber
 
-
-
 ## Technology
-
-
 
 ## Financial
 
+## Military
 
+## Personal
 
 ## Fun
 
