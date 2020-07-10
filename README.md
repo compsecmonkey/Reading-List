@@ -27,11 +27,39 @@
 * Schneier on  Security :heavy_minus_sign: Bruce Schneier, Ken  Maxon
 * Ghost in the Wires:  My Adventures as the World's Most Wanted Hacker :heavy_minus_sign: Kevin Mitnick,  William L. Simon
 
-## Technology
+## Science, Technology, Engineering, Math
+
+* Facebook: The  Inside Story :heavy_minus_sign: Steven Levy
+* One Giant Leap: The  Untold Story of How We Flew to the Moon :heavy_minus_sign: Charles Fishman
+* Coders: The Making  of a New Tribe and the Remaking of the World :heavy_minus_sign: Clive Thompson
+* Energy: A Human  History :heavy_minus_sign: Richard Rhodes
+* This Idea Must Die:  Scientific Theories That Are Blocking Progress :heavy_minus_sign: John Brockman
+* We Are the Nerds:  The Birth and Tumultuous Life of Reddit, the Internet's Culture Laboratory :heavy_minus_sign: Christine Lagorio-Chafkin
+* Bitwise: A Life in  Code :heavy_minus_sign: David Auerbach
+* The Upstarts: How  Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing  the World :heavy_minus_sign: Brad Stone
+* The Launch Pad:  Inside Y Combinator, Silicon Valley's Most Exclusive School for Startups :heavy_minus_sign: Randall Stross
+* The Four: The  Hidden DNA of Amazon, Apple, Facebook, and Google :heavy_minus_sign: Scott Galloway
+* Bad Blood: Secrets and Lies in a Silicon Valley Startu :heavy_minus_sign: John Carreyrou
+* Valley of Genius :heavy_minus_sign: Adam Fisher
+* The Wizard of Menlo  Park: How Thomas Alva Edison Invented the Modern World :heavy_minus_sign: Randall E. Stross
+* Rocket  Billionaires: Elon Musk, Jeff Bezos, and the New Space Race :heavy_minus_sign: Tim Fernholz
+* Alibaba: The House  That Jack Ma Built :heavy_minus_sign: Duncan Clark
+* Hit Refresh: The  Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone :heavy_minus_sign: Satya Nadella, Greg Shaw, Bill Gates - foreword
+* Chaos Monkeys:  Obscene Fortune and Random Failure in Silicon Valley :heavy_minus_sign: Antonio Garcia  Martinez
+* The Everything  Store: Jeff Bezos and the Age of Amazon :heavy_minus_sign: Brad Stone
+* Elon Musk: Tesla,  SpaceX, and the Quest for a Fantastic Future :heavy_minus_sign: Ashlee Vance
+* The Pentagon's  Brain: An Uncensored History of DARPA, America's Top-Secret Military Research  Agency :heavy_minus_sign: Annie Jacobsen
+* Big Science: Ernest  Lawrence and the Invention That Launched the Military-Industrial Complex :heavy_minus_sign: Michael Hiltzik
+* Data and Goliath:  The Hidden Battles to Capture Your Data and Control Your World :heavy_minus_sign: Bruce Schneier
+* The Innovators: How  a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution :heavy_minus_sign: Walter Isaacson
+* Space Chronicles:  Facing the Ultimate Frontier :heavy_minus_sign: Neil DeGrasse Tyson
+* Geek Sublime: The  Beauty of Code, the Code of Beauty :heavy_minus_sign: Vikram Chandra
+* Googled: The End of  the World as We Know It :heavy_minus_sign: Ken Auletta
+* In the Plex: How  Google Thinks, Works, and Shapes Our Lives :heavy_minus_sign: Steven Levy
+* ENIAC: The Triumphs  and Tragedies of the World's First Computer :heavy_minus_sign: Scott McCartney
+* Where Wizards Stay  Up Late: The Origins of the Internet :heavy_minus_sign: Katie Hafner,  Matthew Lyon
 
 ## Financial
-
-## Space and Science
 
 
 
@@ -44,6 +72,7 @@
 * Churchill's  Ministry of Ungentlemanly Warfare: The Mavericks Who Plotted Hitler's Defeat :heavy_minus_sign: Giles Milton
 * The Operators: The  Wild and Terrifying Inside Story of America's War in Afghanistan :heavy_minus_sign: Michael Hastings
 * The New Tsar: The  Rise and Reign of Vladimir Putin :heavy_minus_sign: Steven Lee Myers
+* The Sword and the  Shield :heavy_minus_sign: Christopher Andrew,  Vasilli Mitrokhin
 * Eisenhower's Armies :heavy_minus_sign: Niall Barr
 * Red Team: How to  Succeed by Thinking Like the Enemy :heavy_minus_sign: Micah Zenko
 * Playing to the  Edge: American Intelligence in the Age of Terror :heavy_minus_sign: Michael V. Hayden
@@ -88,6 +117,7 @@
 * Tom Clancy Point of  Contact: Jack Ryan Jr., Book 3 :heavy_minus_sign: Mike Maden
 * Doubleshot: James  Bond Series, Book 33 :heavy_minus_sign: Raymond Benson
 * Zero Minus Ten:  James Bond Series :heavy_minus_sign: Raymond Benson
+* The Circle :heavy_minus_sign: Dave Eggers
 * The Sum of All  Fears :heavy_minus_sign: Tom Clancy
 * Clear and Present  Danger :heavy_minus_sign: Tom Clancy
 * Patriot Games :heavy_minus_sign: Tom Clancy
