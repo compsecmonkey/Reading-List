@@ -243,6 +243,13 @@
 
   
 
+## Politics 
+
+* Atlas Shurgged :heavy_minus_sign: Ayn Rand
+* Fire and Fury:  Inside the Trump White House :heavy_minus_sign: Michael Wolff
+
+
+
 ## Fun
 
 * CyberSpace: A  CyberStorm Novel (Cyber Series, Book 1) :heavy_minus_sign: Matthew Mather
