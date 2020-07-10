@@ -147,7 +147,11 @@
 
 * Financial Freedom:  A Proven Path to All the Money You Will Ever Need :heavy_minus_sign: Grant Sabatier,  Vicki Robin - foreword
 
+* The Dumb Things  Smart People Do with Their Money: Thirteen Ways to Right Your Financial  Wrongs :heavy_minus_sign: Jill Schlesinger
+
 * Misbehaving: The  Making of Behavioral Economics :heavy_minus_sign: Richard Thaler
+
+* A Random Walk Down  Wall Street: The Time-Tested Strategy for Succesful Investing :heavy_minus_sign: Burton Malkiel
 
 * The Investors  Manifesto: Preparing for Prosperity, Armageddon, and Everything in Between :heavy_minus_sign: William Bernstein
 
@@ -177,7 +181,67 @@
 
 
 
-## Personal
+## Personal / Self-Help
+
+* Thinking in Bets:  Making Smarter Decisions When You Don't Have All the Facts :heavy_minus_sign: Annie Duke
+
+* Exactly What to  Say: The Magic Words for Influence and Impact :heavy_minus_sign: Phil M. Jones
+
+* Talking to  Strangers: What We Should Know About the People We Don't Know :heavy_minus_sign: Malcolm Gladwell
+
+* Thank You for Being  Late: An Optimist's Guide to Thriving in the Age of Accelerations :heavy_minus_sign: Thomas L. Friedman
+
+* Blink: The Power of  Thinking Without Thinking :heavy_minus_sign: Malcolm Gladwell
+
+* Peak Performance:  Elevate Your Game, Avoid Burnout, and Thrive with the New Science of Success :heavy_minus_sign: Brad Stulberg, Steve Magness
+
+* The 10X Rule: The  Only Difference Between Success and Failure :heavy_minus_sign: Grant Cardone
+
+* If I Understood  You, Would I Have This Look on My Face?: My Adventures in the Art and Science  of Relating and Communicating :heavy_minus_sign: Alan Alda
+
+* Never Split the  Difference: Negotiating as if Your Life Depended on It :heavy_minus_sign: Chris Voss
+
+* Presence: Bringing  Your Boldest Self to Your Biggest Challenges :heavy_minus_sign: Amy Cuddy
+
+* Total Focus: Making  Better Decisions Under Pressure :heavy_minus_sign: Brandon Webb, John David Mann
+
+* A More Beautiful  Question: The Power of Inquiry to Spark Breakthrough Ideas :heavy_minus_sign: Warren Berger
+
+* The Obesity Code:  Unlocking the Secrets of Weight Loss :heavy_minus_sign: Dr. Jason Fung
+
+* Algorithms to Live  By: The Computer Science of Human Decisions :heavy_minus_sign: Brian Christian, Tom Griffiths
+
+* Make Your Bed:  Little Things That Can Change Your Life...and Maybe the World :heavy_minus_sign: William H. McRaven
+
+* The Subtle Art of  Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life :heavy_minus_sign: Mark Manson
+
+* Scarcity: Why  Having Too Little Means So Much :heavy_minus_sign: Sendhil  Mullainathan, Eldar Shafir
+
+* You Are a Badass:  How to Stop Doubting Your Greatness and Start Living an Awesome Life :heavy_minus_sign: Jen Sincero
+
+* So Good They Can't  Ignore You: Why Skills Trump Passion in the Quest for Work You Love :heavy_minus_sign: Cal Newport
+
+* The End of Average:  How We Succeed in a World That Values Sameness :heavy_minus_sign: Todd Rose
+
+* Deep Work: Rules  for Focused Success in a Distracted World :heavy_minus_sign: Cal Newport
+
+* David and Goliath:  Underdogs, Misfits, and the Art of Battling Giants :heavy_minus_sign: Malcolm Gladwell
+
+* Talk Like TED: The  9 Public Speaking Secrets of the World's Top Minds :heavy_minus_sign: Carmine Gallo
+
+* The Road to  Character :heavy_minus_sign: David Brooks
+
+* The Creator's Code:  The Six Essential Skills of Extraordinary Entrepreneurs :heavy_minus_sign: Amy Wilkinson
+
+* Outliers: The Story  of Success :heavy_minus_sign: Malcolm Gladwell
+
+* The Power of a  Positive No: How to Say No and Still Get to Yes :heavy_minus_sign: William Ury
+
+* The 7 Habits of  Highly Effective People: Powerful Lessons in Personal Change :heavy_minus_sign: Stephen R. Covey
+
+* How to Win Friends  & Influence People :heavy_minus_sign: Dale Carnegie
+
+  
 
 ## Fun
 
