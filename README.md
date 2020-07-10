@@ -62,7 +62,28 @@
 
 
 
-## References
+## Reference Books
+
+These are technical books that I have not neccessarily read cover to cover but own as references. 
+
+### DevOps
+
+* Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications :heavy_minus_sign: Bilgin Ibryam, Roland Hub
+
+### Incident Response / Analysis
+
+* Intelligence-Driven Incident Response: Outwitting the Adversary :heavy_minus_sign: Scott J. Roberts, Rebekah Brown
+* BTFM: Blue Team Field Manual :heavy_minus_sign: Alan White, Ben Clark
+
+### Reverse Engineering
+
+* Windows Internals - Part 1: System architecture, processes, threads, memory management, and more :heavy_minus_sign: Pavel Yosifovich, Alex Ionescu, Mark E. Russinovich, David A. Soloman
+* Rootkits and Bootkits: Reversing Modern Malware and Next Generation Threats :heavy_minus_sign: Alex Matrosov, Eugene Rodionov, Sergey Bratus
+* The IDA Pro Book: The unofficial guide to the world's most popular disassembler :heavy_minus_sign: Chris Eagle
+
+### Scripting
+
+* PowerShell and Python Together: Targeting Digital Investigations :heavy_minus_sign: Chet Hosmer
 
 
 
