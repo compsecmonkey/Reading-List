@@ -8,6 +8,25 @@
 
 ## Cyber
 
+* The Cuckoo's Egg:  Tracking a Spy Through the Maze of Computer Espionage :heavy_minus_sign: Cliff Stoll
+* Gray Day: My  Undercover Mission to Expose America's First Cyber Spy :heavy_minus_sign: Eric O'Neill
+* Sandworm: A New Era  of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers :heavy_minus_sign: Andy Greenburg
+* The Fifth Domain:  Defending Our Country, Our Companies, and Ourselves in the Age of Cyber  Threats :heavy_minus_sign: Richard A. Clarke,  Robert K. Knake
+* Dawn of the Code  War: America's Battle Against Russia, China, and the Rising Global Cyber  Threat :heavy_minus_sign: John P. Carlin,  Garrett M. Graff
+* American Kingpin:  The Epic Hunt for the Criminal Mastermind Behind the Silk Road :heavy_minus_sign: Nick Bilton
+* The Perfect Weapon:  War, Sabotage, and Fear in the Cyber Age :heavy_minus_sign: David E. Sanger
+* The Art of  Deception: Controlling the Human Element of Security :heavy_minus_sign: Kevin Mitnick
+* Cyberspies: The  Secret History of Surveillance, Hacking, and Digital Espionage :heavy_minus_sign: Gordon Corera
+* Code Warriors:  NSA's Codebreakers and the Secret Intelligence War Against the Soviet Union :heavy_minus_sign: Stephen Budiansky
+* Dark Territory: The  Secret History of Cyber War :heavy_minus_sign: Fred Kaplan
+* Kingpin: How One  Hacker Took Over the Billion-Dollar Cybercrime Underground :heavy_minus_sign: Kevin Poulsen
+* We Are Anonymous:  Inside the Hacker World of LulzSec, Anonymous, and the Global Cyber  Insurgency :heavy_minus_sign: Parmy Olson
+* Social Engineering:  The Art of Human Hacking :heavy_minus_sign: Paul Wilson  (foreword), Christopher Hadnagy
+* @War: The Rise of  the Military-Internet Complex :heavy_minus_sign: Shane Harris
+* Countdown to Zero  Day: Stuxnet and the Launch of the World's First Digital Weapon :heavy_minus_sign: Kim Zetter
+* Schneier on  Security :heavy_minus_sign: Bruce Schneier, Ken  Maxon
+* Ghost in the Wires:  My Adventures as the World's Most Wanted Hacker :heavy_minus_sign: Kevin Mitnick,  William L. Simon
+
 ## Technology
 
 ## Financial
