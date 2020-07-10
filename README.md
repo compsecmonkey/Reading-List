@@ -7,39 +7,86 @@
 ## Leadership and Team Building
 
 * Sprint: How to  Solve Big Problems and Test New Ideas in Just Five Days :heavy_minus_sign: Jake Knapp John  Zeratsky Braden Kowitz
+
 * The CEO Next Door:  The 4 Behaviors that Transform Ordinary People into World-Class Leaders :heavy_minus_sign: Tahl Raz, Kim R.  Powell, Elena L. Botelho
+
 * Immunity to Change:  How to Overcome It and Unlock the Potential in Yourself and Your Organization :heavy_minus_sign: Robert Kegan, Lisa Laskow Lahey
+
 * The Dichotomy of  Leadership: Balancing the Challenges of Extreme Ownership to Lead and Win :heavy_minus_sign: Jocko Willink, Leif Babin
+
 * Rework :heavy_minus_sign: Jason Fried David,  Heinemeier Hansson
+
 * Turn the Ship  Around!: A True Story of Turning Followers into Leaders :heavy_minus_sign: L. David Marquet
+
 * First, Break All  the Rules: What the World's Greatest Managers Do Differently :heavy_minus_sign: Marcus Buckingham,  Curt Coffman, Jim Harter - foreword
+
 * The Ideal Team  Player: How to Recognize and Cultivate the Three Essential Virtues: A  Leadership Fable :heavy_minus_sign: Patrick M. Lencioni
+
 * Relentless: From  Good to Great to Unstoppable :heavy_minus_sign: Tim S. Grover
+
 * Find Your Why: A  Practical Guide for Discovering Purpose for You and Your Team :heavy_minus_sign: Simon Sinek, David  Mead, Peter Docker
+
 * Dare to Lead: Brave  Work. Tough Conversations. Whole Hearts. :heavy_minus_sign: Bren Brown
+
 * Born to Build: How to Build a Thriving Startup, a Winning Team, New Customers and Your Best Life Imaginable :heavy_minus_sign: Jim Clifton,  Sangeeta Badal
+
 * Taking Point: A  Navy SEAL's 10 Fail Safe Principles for Leading Through Change :heavy_minus_sign: Brent Gleeson, Mark  Owen - foreword
+
 * Superbosses: How  Exceptional Leaders Master the Flow of Talent :heavy_minus_sign: Sydney Finkelstein
+
 * Powerful: Building  a Culture of Freedom and Responsibility :heavy_minus_sign: Patty McCord
+
 * The Talent Code:  Unlocking the Secret of Skill in Sports, Art, Music, Math, and Just About  Anything :heavy_minus_sign: Daniel Coyle
+
 * Radical Candor: Be  a Kick-Ass Boss Without Losing Your Humanity :heavy_minus_sign: Kim Scott
+
 * The Culture Code:  The Secrets of Highly Successful Groups :heavy_minus_sign: Daniel Coyle
+
 * Starship Troopers :heavy_minus_sign: Robert A. Heinlein
+
 * Emotional  Intelligence 2.0 :heavy_minus_sign: Travis Bradberry,  Jean Greaves
+
 * Leaders Eat Last:  Why Some Teams Pull Together and Others Don't :heavy_minus_sign: Simon Sinek
+
 * Extreme Ownership:  How U.S. Navy SEALs Lead and Win :heavy_minus_sign: Jocko Willink, Leif Babin
+
 * The Hard Thing  About Hard Things: Building a Business When There Are No Easy Answers :heavy_minus_sign: Ben Horowitz
+
 * The Right Kind of  Crazy: A True Story of Teamwork, Leadership, and High-Stakes Innovation :heavy_minus_sign: Adam Steltzner, William Patrick
+
 * Zero to One: Notes  on Startups, or How to Build the Future :heavy_minus_sign: Peter Thiel, Blake Masters
+
 * The Phoenix  Project: A Novel about IT, DevOps, and Helping Your Business Win 5th  Anniversary Edition :heavy_minus_sign: Gene Kim, Kevin Behr,  George Spafford
+
 * Take Command:  Lessons in Leadership: How to Be a First Responder in Business :heavy_minus_sign: Jake Wood
+
 * Start with Why: How  Great Leaders Inspire Everyone to Take Action :heavy_minus_sign: Simon Sinek
+
 * Small Unit  Leadership: A Commonsense Approach :heavy_minus_sign:Dandridge M. Malone
+
 * Notes to a Software  Team Leader: Growing Self Organizing Teams :heavy_minus_sign: Roy Osherove
+
 * Developing the  Leaders Around You :heavy_minus_sign: John C. Maxwell
-* 
+
+  
 
 ## Memoirs
+
+* The Ride of a  Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company :heavy_minus_sign: Robert Iger
+* My Share of the  Task: A Memoir :heavy_minus_sign: Gen. Stanley  McChrystal
+* Sea Stories: My  Life in Special Operations :heavy_minus_sign: William H. McRaven
+* My American  Journey: An Autobiography :heavy_minus_sign: Colin Powell
+* Born a Crime:  Stories from a South African Childhood :heavy_minus_sign: Tevor Noah
+* Onward: How  Starbucks Fought for Its Life Without Losing Its Soul :heavy_minus_sign: Howard Schultz, Joanne Gordon
+* Call Sign Chaos:  Learning to Lead :heavy_minus_sign: Jim Mattis, Bing West
+* Surely You're  Joking, Mr. Feynman! :heavy_minus_sign: Richard P. Feynman
+* Principles: Life  and Work :heavy_minus_sign: Ray Dalio
+* Capital Gaines: The  Smart Things I've Learned by Doing Stupid Stuff :heavy_minus_sign: Chip Gaines
+* Skunk Works: A  Personal Memoir of My Years of Lockheed :heavy_minus_sign: Ben R. Rich, Leo Janos
+* A Passion for  Leadership: Lessons on Change and Reform from Fifty Years of Public Service :heavy_minus_sign: Robert M. Gates
+* Duty: Memoirs of a  Secretary at War :heavy_minus_sign: Robert M. Gates
+
+
 
 ## Cyber
 
