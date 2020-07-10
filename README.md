@@ -60,6 +60,79 @@
 
 ## Fun
 
+* CyberSpace: A  CyberStorm Novel (Cyber Series, Book 1) :heavy_minus_sign: Matthew Mather
+* Star Wars: The  Thrawn Trilogy, Book 3: The Last Command :heavy_minus_sign: Timothy Zahn
+* Star Wars: Dark  Force Rising: The Thrawn Trilogy, Book 2 :heavy_minus_sign: Timothy Zahn
+* Star Wars: The  Thrawn Trilogy, Book 1: Heir to the Empire:heavy_minus_sign: Timothy Zahn
+* Journey to Star  Wars: The Last Jedi: The Legends of Luke Skywalker :heavy_minus_sign: Ken Liu
+* Galaxy's Edge:  Black Spire (Star Wars) :heavy_minus_sign: Delilah S. Dawson
+* Tom Clancy Code of  Honor :heavy_minus_sign: Marc Cameron
+* Tom Clancy Enemy  Contact :heavy_minus_sign: Mike Maden
+* Tom Clancy Oath of  Office: Jack Ryan Novel Series, Book 19 :heavy_minus_sign: Marc Cameron
+* Tom Clancy Line of  Sight: Jack Ryan Jr., Book 4 :heavy_minus_sign: Mike Maden
+* Tom Clancy: Power  and Empire: A Jack Ryan Novel, Book 18 :heavy_minus_sign: Marc Cameron
+* From a Certain  Point of View (Star Wars) :heavy_minus_sign: Rene Ahdieh, Meg Cabot, Pierce Brown, Nnedi Okorafor, Sabaa Tahir
+* Artemis :heavy_minus_sign: Andy Weir
+* State of War: Tom  Clancy's Net Force #7 :heavy_minus_sign: Steve Perry, Larry Segriff
+* Tom Clancy's Net  Force #5: Point of Impact :heavy_minus_sign: Netco Partners
+* Tom Clancy's Net  Force #4: Breaking Point :heavy_minus_sign: Netco Partners
+* Tom Clancy's Net  Force #3: Night Moves :heavy_minus_sign: Netco Partners
+* Line of Control:  Tom Clancy's Op-Center #8 :heavy_minus_sign: Tom Clancy Steve  Pieczenik Jeff Rovin
+* Divide and Conquer:  Tom Clancy's Op-Center #7 :heavy_minus_sign: Tom Clancy Steve  Pieczenik Jeff Rovin
+* State of Siege: Tom  Clancy's Op-Center #6 :heavy_minus_sign: Tom Clancy Steve  Pieczenik Jeff Rovin
+* Balance of Power:  Tom Clancy's Op-Center #5 :heavy_minus_sign: Tom Clancy Steve  Pieczenik Jeff Rovin
+* Acts of War: Tom  Clancy's Op-Center #4 :heavy_minus_sign: Tom Clancy Steve  Pieczenik Jeff Rovin
+* Games of State: Tom  Clancy's Op-Center #3 :heavy_minus_sign: Tom Clancy Steve  Pieczenik Jeff Rovin
+* Mirror Image: Tom  Clancy's Op-Center #2 :heavy_minus_sign: Tom Clancy Steve  Pieczenik Jeff Rovin
+* Tom Clancy's  Op-Center: Tom Clancy's Op-Center #1 :heavy_minus_sign: Tom Clancy Steve  Pieczenik Jeff Rovin
+* Tom Clancy Point of  Contact: Jack Ryan Jr., Book 3 :heavy_minus_sign: Mike Maden
+* Doubleshot: James  Bond Series, Book 33 :heavy_minus_sign: Raymond Benson
+* Zero Minus Ten:  James Bond Series :heavy_minus_sign: Raymond Benson
+* The Sum of All  Fears :heavy_minus_sign: Tom Clancy
+* Clear and Present  Danger :heavy_minus_sign: Tom Clancy
+* Patriot Games :heavy_minus_sign: Tom Clancy
+* Red Storm Rising :heavy_minus_sign: Tom Clancy
+* The Hunt for Red  October :heavy_minus_sign: Tom Clancy
+* The Cardinal of the  Kremlin :heavy_minus_sign: Tom Clancy
+* The Bear and the  Dragon :heavy_minus_sign: Tom Clancy
+* Rainbow Six :heavy_minus_sign: Tom Clancy
+* Tom Clancy True  Faith and Allegiance: A Jack Ryan Novel, Book 17 :heavy_minus_sign: Mark Greaney
+* Never Dream of  Dying: James Bond Series, Book 34 :heavy_minus_sign: Raymond Benson
+* Trigger Mortis:  With Original Material by Ian Fleming :heavy_minus_sign: Anthony Horowitz
+* Carte Blanche: The  New James Bond Novel :heavy_minus_sign: Jeffery Deaver
+* Without Remorse :heavy_minus_sign: Tom Clancy
+* CyberStorm :heavy_minus_sign: Matthew Mather
+* Colonel Sun: James  Bond, Book 15 :heavy_minus_sign: Kingsley Amis
+* Tom Clancy Duty and  Honor: A Jack Ryan Jr. Novel :heavy_minus_sign: Grant Blackwood
+* The Martian :heavy_minus_sign: Andy Weir
+* Tom Clancy  Commander-in-Chief :heavy_minus_sign: Mark Greaney
+* Tom Clancy Under  Fire: A Jack Ryan Jr. Novell :heavy_minus_sign: Grant Blackwood
+* Octopussy and The  Living Daylights, and Other Stories: James Bond, Book 14 :heavy_minus_sign: Ian Fleming
+* The Man with the  Golden Gun: James Bond, Book 13 :heavy_minus_sign: Ian Fleming
+* You Only Live  Twice: James Bond, Book 12 :heavy_minus_sign: Ian Fleming
+* On Her Majesty's  Secret Service: James Bond, Book 11 :heavy_minus_sign: Ian Fleming
+* The Spy Who Loved  Me: James Bond, Book 10 :heavy_minus_sign: Ian Fleming
+* Thunderball: James  Bond, Book 9 :heavy_minus_sign: Ian Fleming
+* For Your Eyes Only,  and Other Stories: James Bond, Book 8 :heavy_minus_sign: Ian Fleming
+* Goldfinger: James  Bond, Book 7 :heavy_minus_sign: Ian Fleming
+* Dr. No: James Bond,  Book 6 :heavy_minus_sign: Ian Fleming
+* From Russia with  Love: James Bond, Book 5 :heavy_minus_sign: Ian Fleming
+* Diamonds Are  Forever: James Bond, Book 4 :heavy_minus_sign: Ian Fleming
+* Moonraker: James  Bond, Book 3 :heavy_minus_sign: Ian Fleming
+* Live and Let Die:  James Bond, Book 2 :heavy_minus_sign: Ian Fleming
+* Full Force and  Effect: A Jack Ryan Novel :heavy_minus_sign: Mark Greaney
+* Tom Clancy Support  and Defend: A Campus Novel :heavy_minus_sign: Mark Greaney
+* Red Rabbit :heavy_minus_sign: Tom Clancy
+* Debt of Honor: A  Jack Ryan Novel :heavy_minus_sign: Tom Clancy
+* Against All Enemies :heavy_minus_sign: Tom Clancy, Peter Telep
+* Rogue Code: A Jeff  Aiken Novel :heavy_minus_sign: Mark Russinovich
+* Trojan Horse: A  Jeff Aiken Novel, Book 2 :heavy_minus_sign: Mark Russinovich
+* Zero Day: A Jeff  Aiken Novel :heavy_minus_sign: Mark Russinovich
+* Command Authority :heavy_minus_sign: Tom Clancy, Mark Greaney
+* Threat Vector :heavy_minus_sign: Tom Clancy, Mark Greaney
+* Dead or Alive :heavy_minus_sign: Tom Clancy, Grant Blackwell
+* Locked On :heavy_minus_sign: Tom Clancy, Mark Greaney
+
 
 
 ## Reference Books
