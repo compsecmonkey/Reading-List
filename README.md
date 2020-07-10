@@ -143,7 +143,17 @@
 
 ## Financial
 
+* Invested: How  Warren Buffett and Charlie Munger Taught Me to Master My Mind, My Emotions,  and My Money (with a Little Help from My Dad) :heavy_minus_sign: Danielle Town, Phil Town
 
+* Financial Freedom:  A Proven Path to All the Money You Will Ever Need :heavy_minus_sign: Grant Sabatier,  Vicki Robin - foreword
+
+* Misbehaving: The  Making of Behavioral Economics :heavy_minus_sign: Richard Thaler
+
+* The Investors  Manifesto: Preparing for Prosperity, Armageddon, and Everything in Between :heavy_minus_sign: William Bernstein
+
+* The Total Money  Makeover: A Proven Plan for Financial Fitness :heavy_minus_sign: Dave Ramsey
+
+  
 
 ## Military / Government
 
