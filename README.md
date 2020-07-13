@@ -2,7 +2,8 @@
 
 ## Currently On Deck
 * *Samsung Rising:* The Inside Story of the South Korean Giant That Set Out to Beat Apple and Conquer Tech :heavy_minus_sign:	Geoffrey Cain
-* Troublemakers: Silicon Valley's Coming of Age	:heavy_minus_sign: Leslie Berlin
+
+  
 
 ## Leadership and Team Building
 
@@ -111,6 +112,7 @@
 
 ## Science, Technology, Engineering, Math
 
+* Troublemakers: Silicon Valley's Coming of Age	:heavy_minus_sign: Leslie Berlin
 * Facebook: The  Inside Story :heavy_minus_sign: Steven Levy
 * One Giant Leap: The  Untold Story of How We Flew to the Moon :heavy_minus_sign: Charles Fishman
 * Coders: The Making  of a New Tribe and the Remaking of the World :heavy_minus_sign: Clive Thompson
