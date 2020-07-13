@@ -451,15 +451,63 @@
 
 These are technical books that I have not neccessarily read cover to cover but own as references. 
 
+### C
+
+* Power C
+* Programming In C :heavy_minus_sign: Kochan
+* C++ In 24 Hours :heavy_minus_sign: Liberty, Horvath
+* Secure Coding in C and C++ :heavy_minus_sign: Seacord
+* C and the 8051 :heavy_minus_sign: Thomas Schultz
+
+### Data Analysis
+
+* Discovering Knowledge in Data :heavy_minus_sign: Larose
+* Data-Driven Security: Analysis, Visualization, and Dashboards :heavy_minus_sign: Jacobs, Rudis
+
+### Databases
+
+* MySQL: Visual Quickstart Guide :heavy_minus_sign: Ullman
+* PHP6 and MySQL 5 :heavy_minus_sign: Ullman
+
 ### DevOps
 
 * Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications :heavy_minus_sign: Bilgin Ibryam, Roland Hub
+* Microservice Architechture :heavy_minus_sign: Nadaeishvili, Mitra, McLarty, Amundsen
+
+### General Security
+
+* Dissecting the Hack
+* Cyber Warfare
+* Beautiful Security :heavy_minus_sign: Oram, Viega
+* The Myths of Security :heavy_minus_sign: Viega
+* Effective Monitoring and Alerting 
 
 ### Incident Response / Analysis
 
 * Intelligence-Driven Incident Response: Outwitting the Adversary :heavy_minus_sign: Scott J. Roberts, Rebekah Brown
 * BTFM: Blue Team Field Manual :heavy_minus_sign: Alan White, Ben Clark
 * RTFM: Red Team Field Manual 
+* Forensics Field Guide for Linux :heavy_minus_sign: Malin, Casey, Aquilina
+
+### Networking
+
+* Data and Computer Communications :heavy_minus_sign: Stallings
+* Internetworking. with TCP/IP: Principles, Protocols and Architechture :heavy_minus_sign: Comer
+* Internetworking and Computing over Satellite Networks :heavy_minus_sign: Zhang
+* TCP/IP Guide :heavy_minus_sign: Kozierok
+* Networking Bible :heavy_minus_sign: Sosinsky
+* CCNA Routing and Switching Portable Command Guide :heavy_minus_sign: Empson
+
+### Network Security 
+
+* The Practice of Network Security Monitoring :heavy_minus_sign: Bejtlich
+* Applied Network Security Monitoring :heavy_minus_sign: Sanders, Smith
+* Practical Packet Analysis :heavy_minus_sign: Sanders
+* Network Intrusion Detection :heavy_minus_sign: Northcutt, Novak
+* Network Security Through Data Analysis :heavy_minus_sign: Collins
+* The Tao of Network Security Monitoring :heavy_minus_sign: Bejtlich
+* Network Security:Private Communication in a Public World :heavy_minus_sign: Kaufman, Perlman, Speciner
+* Network Security Essentials: Applications and Standards :heavy_minus_sign: Stallings
 
 ### Operating Systems / Computer Architechture 
 
@@ -473,16 +521,34 @@ These are technical books that I have not neccessarily read cover to cover but o
 * Computer Architecture: A Quantatative Approach :heavy_minus_sign: Hennessy, Patterson
 * Computer Systems: A Programmers Perspective :heavy_minus_sign: Bryant
 
+### Python
+
+* Effective Python :heavy_minus_sign: Slatkin
+* Python Cookbook :heavy_minus_sign: Beazley, Jones
+* Fluent Python :heavy_minus_sign: Ramalho
+* Dive Into Python :heavy_minus_sign: Pilgrim
+* Violent Python 
+* Mastering Flask :heavy_minus_sign: Jack Stouffer
+* Flask Framework Cookbook :heavy_minus_sign: Shalabh Aggarwal
+* 
+
 ### Reverse Engineering
 
 * Windows Internals - Part 1: System architecture, processes, threads, memory management, and more :heavy_minus_sign: Pavel Yosifovich, Alex Ionescu, Mark E. Russinovich, David A. Soloman
 * Rootkits and Bootkits: Reversing Modern Malware and Next Generation Threats :heavy_minus_sign: Alex Matrosov, Eugene Rodionov, Sergey Bratus
 * The IDA Pro Book: The unofficial guide to the world's most popular disassembler :heavy_minus_sign: Chris Eagle
+* The Rootkit Arsenal: Escape and Evasion in the Dark Corners of the System :heavy_minus_sign: Blunden
+* Hacking: The Art of Exploitation :heavy_minus_sign: Erickson
+* Malware Analyst's: Tools and Techniques for Fighting Malicious Code :heavy_minus_sign: Ligh, Adair, Hartstein, Richard
+* Malware: Fighting Malcious Code :heavy_minus_sign: Skoudis
+* Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software :heavy_minus_sign: Sikorski, Honig
 
 ### Scripting
 
 * PowerShell and Python Together: Targeting Digital Investigations :heavy_minus_sign: Chet Hosmer
 * Wicked Cool Shell Scripts :heavy_minus_sign: Taylor, Perry
+* Webbots, SPiders and Screen Scrapers :heavy_minus_sign: Schrenk
+* Automate the Boring Stuff :heavy_minus_sign: Sweigart
 
 ### Software Engineering
 
