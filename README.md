@@ -3,6 +3,8 @@
 ## Currently On Deck
 * *Samsung Rising:* The Inside Story of the South Korean Giant That Set Out to Beat Apple and Conquer Tech :heavy_minus_sign:	Geoffrey Cain
 
+* Bletchly Park and D-Day :heavy_minus_sign: David Kenyon
+
   
 
 ## Leadership and Team Building
