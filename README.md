@@ -8,6 +8,14 @@ This repo contains the list of most of the books I have read on my own accord as
 
 There are certainly books on this list that have influeneced me more than others but few that I would flat out not recommend reading. For now I have refrained from marking particular books as highly recommended or don't recommend. However, if you are interested in recommendations or want to talk about a certain category / book I am always open to the conversation!
 
+### Table of Contents
+
+[Currently On Deck](#Currently-On-Deck)
+
+[Leadership and Team Building](#Leadership-and-Team-Building)
+
+[Memoirs](Memoirs)
+
 
 
 ## Currently On Deck
