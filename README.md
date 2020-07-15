@@ -10,18 +10,29 @@ There are certainly books on this list that have influeneced me more than others
 
 ### Table of Contents
 
-[Currently On Deck](#Currently-On-Deck)
-
-[Leadership and Team Building](#Leadership-and-Team-Building)
-
-[Memoirs](Memoirs)
-
+* [Currently On Deck](#Currently-On-Deck)
+* [Leadership and Team Building](#Leadership-and-Team-Building)
+* [Memoirs](#Memoirs)
+* [Cyber](#Cyber)
+* [Science, Technology, Engineering, Math](#Science, Technology-Engineering-Math)
+* [Financial](#Financial)
+* [Military / Government](#Military--Government)
+* [Personal / Self-Help](#Personal--Self-Help)
+* [Politics](#Politics)
+* [Fun](#Fun)
+* [Reference Books](Reference-Books)
+  * [C](#C)
+  * [Data Analysis](#Data-Analysis)
+  * [Databases](#Databases)
+  * [DevOps](#DevOps)
+  * [General Security](#General-Security)
+  * [Incident Response / Analysis](#Incident Response--Analysis)
+  
 
 
 ## Currently On Deck
 
 * Bletchly Park and D-Day :heavy_minus_sign: David Kenyon
-
 * George Washington's Secret Six: The Spy Ring That Saved America :heavy_minus_sign: Brian Kilmeade, Don Yaeger
 
   
