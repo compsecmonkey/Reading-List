@@ -1,6 +1,17 @@
 #  My Reading List
 
+### About
+
+This repo contains the list of most of the books I have read on my own accord as an adult. Primary motivation for this is two fold 1) Personal reference for books spanning across multiple sources 2) Serve as a reference to point friends, colleagues and random people on the internet for good reads. Right now the list is contained to just this readme with titles and authors broken into broad categories. Eventually I would like to add links, track when the book was read, notes, etc. 
+
+### Recommendations
+
+There are certainly books on this list that have influeneced me more than others but few that I would flat out not recommend reading. For now I have refrained from marking particular books as highly recommended or don't recommend. However, if you are interested in recommendations or want to talk about a certain category / book I am always open to the conversation!
+
+
+
 ## Currently On Deck
+
 * Bletchly Park and D-Day :heavy_minus_sign: David Kenyon
 
 * George Washington's Secret Six: The Spy Ring That Saved America :heavy_minus_sign: Brian Kilmeade, Don Yaeger
