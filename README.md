@@ -14,7 +14,7 @@ There are certainly books on this list that have influeneced me more than others
 * [Leadership and Team Building](#Leadership-and-Team-Building)
 * [Memoirs](#Memoirs)
 * [Cyber](#Cyber)
-* [Science, Technology, Engineering, Math](#Science, Technology-Engineering-Math)
+* [Science, Technology, Engineering, Math](#Science-Technology-Engineering-Math)
 * [Financial](#Financial)
 * [Military / Government](#Military--Government)
 * [Personal / Self-Help](#Personal--Self-Help)
@@ -26,7 +26,7 @@ There are certainly books on this list that have influeneced me more than others
   * [Databases](#Databases)
   * [DevOps](#DevOps)
   * [General Security](#General-Security)
-  * [Incident Response / Analysis](#Incident Response--Analysis)
+  * [Incident Response / Analysis](#Incident-Response--Analysis)
   
 
 
