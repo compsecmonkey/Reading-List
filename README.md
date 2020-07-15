@@ -3,6 +3,8 @@
 ## Currently On Deck
 * Bletchly Park and D-Day :heavy_minus_sign: David Kenyon
 
+* George Washington's Secret Six: The Spy Ring That Saved America :heavy_minus_sign: Brian Kilmeade, Don Yaeger
+
   
 
 ## Leadership and Team Building
