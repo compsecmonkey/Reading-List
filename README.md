@@ -423,7 +423,8 @@ These are technical books that I have not neccessarily read cover to cover but o
 * Violent Python 
 * Mastering Flask :heavy_minus_sign: Jack Stouffer
 * Flask Framework Cookbook :heavy_minus_sign: Shalabh Aggarwal
-* 
+
+  
 
 ### Reverse Engineering
 
