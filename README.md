@@ -27,6 +27,13 @@ There are certainly books on this list that have influeneced me more than others
   * [DevOps](#DevOps)
   * [General Security](#General-Security)
   * [Incident Response / Analysis](#Incident-Response--Analysis)
+  * [Networking](#Networking)
+  * [Network Security](#Network-Security)
+  * [Operating Systems / Computer Architechture](#Operating-Systems--Computer-Architechture)
+  * [Python](#Python)
+  * [Reverse Engineering](Reverse-Engineering)
+  * [Scripting](#Scripting)
+  * [Software Engineering](#Software-Engineering)
   
 
 
