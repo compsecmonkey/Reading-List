@@ -39,7 +39,6 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Currently On Deck
 
-* Bletchly Park and D-Day :heavy_minus_sign: David Kenyon
 * George Washington's Secret Six: The Spy Ring That Saved America :heavy_minus_sign: Brian Kilmeade, Don Yaeger
 
   
@@ -195,6 +194,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Military / Government
 
+* Bletchly Park and D-Day :heavy_minus_sign: David Kenyon
 * The Kill  Chain: Defending America in the Future of High-Tech Warfare :heavy_minus_sign: Christian Brose
 * A Game  of Birds and Wolves: The Ingenious Young Women Whose Secret Board Game Helped  Win World War II :heavy_minus_sign: Simon Parkin
 * American  Radical: Inside the World of an Undercover Muslim FBI Agent :heavy_minus_sign: Tamer Elnoury, Kevin  Maurer
