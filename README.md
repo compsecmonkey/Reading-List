@@ -23,7 +23,7 @@ There are certainly books on this list that have influeneced me more than others
 * [Personal / Self-Help](#Personal--Self-Help)
 * [Politics](#Politics)
 * [Fun](#Fun)
-* [Reference Books](Reference-Books)
+* [Reference Books](#Reference-Books)
   * [C](#C)
   * [Data Analysis](#Data-Analysis)
   * [Databases](#Databases)
