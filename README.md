@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-39-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-269-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-41-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-271-blue)
 
 #  My Reading List
 
@@ -42,14 +42,12 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Currently On Deck
 
-* George Washington's Secret Six: The Spy Ring That Saved America :heavy_minus_sign: Brian Kilmeade, Don Yaeger
-* Leaders Made Here: Building A Leadership Culture :heavy_minus_sign: Mark Miller
 * The War On Normal People: The Truth About America's Disappearing Jobs and Why Universal Income Is Our Future :heavy_minus_sign: Andrew Yang
-
   
 
 ## Leadership and Team Building
 
+* Leaders Made Here: Building A Leadership Culture :heavy_minus_sign: Mark Miller
 * Sprint: How to  Solve Big Problems and Test New Ideas in Just Five Days :heavy_minus_sign: Jake Knapp John  Zeratsky Braden Kowitz
 * The CEO Next Door:  The 4 Behaviors that Transform Ordinary People into World-Class Leaders :heavy_minus_sign: Tahl Raz, Kim R.  Powell, Elena L. Botelho
 * Immunity to Change:  How to Overcome It and Unlock the Potential in Yourself and Your Organization :heavy_minus_sign: Robert Kegan, Lisa Laskow Lahey
@@ -199,6 +197,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Military / Government
 
+* George Washington's Secret Six: The Spy Ring That Saved America :heavy_minus_sign: Brian Kilmeade, Don Yaeger
 * Bletchly Park and D-Day :heavy_minus_sign: David Kenyon
 * The Kill  Chain: Defending America in the Future of High-Tech Warfare :heavy_minus_sign: Christian Brose
 * A Game  of Birds and Wolves: The Ingenious Young Women Whose Secret Board Game Helped  Win World War II :heavy_minus_sign: Simon Parkin
