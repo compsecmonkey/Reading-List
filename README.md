@@ -43,6 +43,7 @@ There are certainly books on this list that have influeneced me more than others
 ## Currently On Deck
 
 * The War On Normal People: The Truth About America's Disappearing Jobs and Why Universal Income Is Our Future :heavy_minus_sign: Andrew Yang
+* Leadership Strategy and Tactics :heavy_minus_sign: Jocko Willink
   
 
 ## Leadership and Team Building
