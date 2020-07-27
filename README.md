@@ -5,7 +5,12 @@
 
 ### About
 
-This repo contains the list of most of the books I have read on my own accord as an adult. Primary motivation for this is two fold 1) Personal reference for books spanning across multiple sources 2) Serve as a reference to point friends, colleagues and random people on the internet for good reads. Right now the list is contained to just this readme with titles and authors broken into broad categories. Eventually I would like to add links, track when the book was read, notes, etc. 
+This repo contains the list of most of the books I have read on my own accord as an adult. Primary motivation for this is two fold 
+
+1) Personal reference for books spanning across multiple sources 
+2) Serve as a reference to point friends, colleagues and random people on the internet for good reads. 
+
+Right now the list is contained to just this readme with titles and authors broken into broad categories. Eventually I would like to add links, track when the book was read, notes, etc. 
 
 ### Recommendations
 
