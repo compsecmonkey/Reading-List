@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-41-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-271-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-42-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-272-blue)
 
 #  My Reading List
 
@@ -42,7 +42,6 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Currently On Deck
 
-* The War On Normal People: The Truth About America's Disappearing Jobs and Why Universal Income Is Our Future :heavy_minus_sign: Andrew Yang
 * Leadership Strategy and Tactics :heavy_minus_sign: Jocko Willink
   
 
@@ -261,6 +260,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Politics 
 
+* The War On Normal People: The Truth About America's Disappearing Jobs and Why Universal Income Is Our Future :heavy_minus_sign: Andrew Yang
 * Atlas Shurgged :heavy_minus_sign: Ayn Rand
 * Fire and Fury:  Inside the Trump White House :heavy_minus_sign: Michael Wolff
 
