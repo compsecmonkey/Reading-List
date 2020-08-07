@@ -47,12 +47,12 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Currently On Deck
 
-* Leadership Strategy and Tactics :heavy_minus_sign: Jocko Willink
 * Console Wars: Sega, Nintendo, and the Battle That Defined a Generation :heavy_minus_sign: Blake Harris 
   
 
 ## Leadership and Team Building
 
+* Leadership Strategy and Tactics :heavy_minus_sign: Jocko Willink
 * Leaders Made Here: Building A Leadership Culture :heavy_minus_sign: Mark Miller
 * Sprint: How to  Solve Big Problems and Test New Ideas in Just Five Days :heavy_minus_sign: Jake Knapp John  Zeratsky Braden Kowitz
 * The CEO Next Door:  The 4 Behaviors that Transform Ordinary People into World-Class Leaders :heavy_minus_sign: Tahl Raz, Kim R.  Powell, Elena L. Botelho
