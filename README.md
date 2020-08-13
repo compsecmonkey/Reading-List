@@ -48,6 +48,7 @@ There are certainly books on this list that have influeneced me more than others
 ## Currently On Deck
 
 * Console Wars: Sega, Nintendo, and the Battle That Defined a Generation :heavy_minus_sign: Blake Harris 
+* Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World :heavy_minus_sign: Joseph Menn
   
 
 ## Leadership and Team Building
