@@ -48,6 +48,7 @@ There are certainly books on this list that have influeneced me more than others
 ## Currently On Deck
 
 * Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World :heavy_minus_sign: Joseph Menn
+* Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History :heavy_minus_sign: Brian Kilmeade, Don Yaeger
   
 
 ## Leadership and Team Building
