@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-43-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-273-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-44-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-274-blue)
 
 #  My Reading List
 
@@ -47,7 +47,6 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Currently On Deck
 
-* Console Wars: Sega, Nintendo, and the Battle That Defined a Generation :heavy_minus_sign: Blake Harris 
 * Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World :heavy_minus_sign: Joseph Menn
   
 
@@ -137,6 +136,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Science, Technology, Engineering, Math
 
+* Console Wars: Sega, Nintendo, and the Battle That Defined a Generation :heavy_minus_sign: Blake Harris 
 * *Samsung Rising:* The Inside Story of the South Korean Giant That Set Out to Beat Apple and Conquer Tech :heavy_minus_sign:	Geoffrey Cain
 * Troublemakers: Silicon Valley's Coming of Age	:heavy_minus_sign: Leslie Berlin
 * Facebook: The  Inside Story :heavy_minus_sign: Steven Levy
