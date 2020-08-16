@@ -47,7 +47,6 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Currently On Deck
 
-* Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World :heavy_minus_sign: Joseph Menn
 * Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History :heavy_minus_sign: Brian Kilmeade, Don Yaeger
   
 
@@ -109,6 +108,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Cyber
 
+* Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World :heavy_minus_sign: Joseph Menn
 * The Cuckoo's Egg:  Tracking a Spy Through the Maze of Computer Espionage :heavy_minus_sign: Cliff Stoll
 * Gray Day: My  Undercover Mission to Expose America's First Cyber Spy :heavy_minus_sign: Eric O'Neill
 * Sandworm: A New Era  of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers :heavy_minus_sign: Andy Greenburg
