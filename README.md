@@ -48,6 +48,7 @@ There are certainly books on this list that have influeneced me more than others
 ## Currently On Deck
 
 * Stealth War: How China Took Over While America's Elite Slept :heavy_minus_sign: Robert Spalding
+* The Code: Silicon Valley and the Remaking of America :heavy_minus_sign: Margaret O'Mara
   
 
 ## Leadership and Team Building
