@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-45-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-275-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-46-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-276-blue)
 
 #  My Reading List
 
@@ -47,7 +47,6 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Currently On Deck
 
-* Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History :heavy_minus_sign: Brian Kilmeade, Don Yaeger
 * Stealth War: How China Took Over While America's Elite Slept :heavy_minus_sign: Robert Spalding
   
 
@@ -206,6 +205,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Military / Government
 
+* Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History :heavy_minus_sign: Brian Kilmeade, Don Yaeger
 * George Washington's Secret Six: The Spy Ring That Saved America :heavy_minus_sign: Brian Kilmeade, Don Yaeger
 * Bletchly Park and D-Day :heavy_minus_sign: David Kenyon
 * The Kill  Chain: Defending America in the Future of High-Tech Warfare :heavy_minus_sign: Christian Brose
