@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-46-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-276-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-47-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-277-blue)
 
 #  My Reading List
 
@@ -47,7 +47,6 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Currently On Deck
 
-* Stealth War: How China Took Over While America's Elite Slept :heavy_minus_sign: Robert Spalding
 * The Code: Silicon Valley and the Remaking of America :heavy_minus_sign: Margaret O'Mara
   
 
@@ -270,6 +269,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Politics 
 
+* Stealth War: How China Took Over While America's Elite Slept :heavy_minus_sign: Robert Spalding
 * The War On Normal People: The Truth About America's Disappearing Jobs and Why Universal Income Is Our Future :heavy_minus_sign: Andrew Yang
 * Atlas Shurgged :heavy_minus_sign: Ayn Rand
 * Fire and Fury:  Inside the Trump White House :heavy_minus_sign: Michael Wolff
