@@ -48,6 +48,7 @@ There are certainly books on this list that have influeneced me more than others
 ## Currently On Deck
 
 * The Code: Silicon Valley and the Remaking of America :heavy_minus_sign: Margaret O'Mara
+* Soccernomics :heavy_minus_sign: Simon Kuper, Stefan Szymanski
   
 
 ## Leadership and Team Building
