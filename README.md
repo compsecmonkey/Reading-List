@@ -16,9 +16,13 @@ Right now the list is contained to just this readme with titles and authors brok
 
 There are certainly books on this list that have influeneced me more than others but few that I would flat out not recommend reading. For now I have refrained from marking particular books as highly recommended or don't recommend. However, if you are interested in recommendations or want to talk about a certain category / book I am always open to the conversation!
 
+### Currently On Deck
+
+* The Code: Silicon Valley and the Remaking of America :heavy_minus_sign: Margaret O'Mara
+* Soccernomics :heavy_minus_sign: Simon Kuper, Stefan Szymanski
+
 ### Table of Contents
 
-* [Currently On Deck](#Currently-On-Deck)
 * [Leadership and Team Building](#Leadership-and-Team-Building)
 * [Memoirs](#Memoirs)
 * [Cyber](#Cyber)
@@ -43,12 +47,6 @@ There are certainly books on this list that have influeneced me more than others
   * [Scripting](#Scripting)
   * [Software Engineering](#Software-Engineering)
   
-
-
-## Currently On Deck
-
-* The Code: Silicon Valley and the Remaking of America :heavy_minus_sign: Margaret O'Mara
-* Soccernomics :heavy_minus_sign: Simon Kuper, Stefan Szymanski
   
 
 ## Leadership and Team Building
