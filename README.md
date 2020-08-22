@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-47-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-277-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-48-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-278-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 ### Currently On Deck
 
-* The Code: Silicon Valley and the Remaking of America :heavy_minus_sign: Margaret O'Mara
 * Soccernomics :heavy_minus_sign: Simon Kuper, Stefan Szymanski
 
 ### Table of Contents
@@ -136,6 +135,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Science, Technology, Engineering, Math
 
+* The Code: Silicon Valley and the Remaking of America :heavy_minus_sign: Margaret O'Mara
 * Console Wars: Sega, Nintendo, and the Battle That Defined a Generation :heavy_minus_sign: Blake Harris 
 * *Samsung Rising:* The Inside Story of the South Korean Giant That Set Out to Beat Apple and Conquer Tech :heavy_minus_sign:	Geoffrey Cain
 * Troublemakers: Silicon Valley's Coming of Age	:heavy_minus_sign: Leslie Berlin
