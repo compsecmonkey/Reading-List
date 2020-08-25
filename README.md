@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 ### Currently On Deck
 
-* Soccernomics :heavy_minus_sign: Simon Kuper, Stefan Szymanski
 * Countdown 1945 :heavy_minus_sign:  Chris Wallace, Mitch Weiss
 
 ### Table of Contents
@@ -266,6 +265,10 @@ There are certainly books on this list that have influeneced me more than others
 * The 7 Habits of  Highly Effective People: Powerful Lessons in Personal Change :heavy_minus_sign: Stephen R. Covey
 * How to Win Friends  & Influence People :heavy_minus_sign: Dale Carnegie
 
+
+## Sports
+
+* Soccernomics :heavy_minus_sign: Simon Kuper, Stefan Szymanski
 
 ## Politics 
 
