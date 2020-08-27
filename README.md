@@ -19,6 +19,7 @@ There are certainly books on this list that have influeneced me more than others
 ### Currently On Deck
 
 * Countdown 1945 :heavy_minus_sign:  Chris Wallace, Mitch Weiss
+* Trillion Dollar Coach :heavy_minus_sign: Eric Schmidt, Jonathan Rosenberg, Alan Eagle
 
 ### Table of Contents
 
