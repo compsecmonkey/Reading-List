@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-49-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-279-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-50-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-280-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 ### Currently On Deck
 
-* Countdown 1945 :heavy_minus_sign:  Chris Wallace, Mitch Weiss
 * Trillion Dollar Coach :heavy_minus_sign: Eric Schmidt, Jonathan Rosenberg, Alan Eagle
 
 ### Table of Contents
@@ -205,6 +204,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Military / Government
 
+* Countdown 1945 :heavy_minus_sign:  Chris Wallace, Mitch Weiss
 * Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History :heavy_minus_sign: Brian Kilmeade, Don Yaeger
 * George Washington's Secret Six: The Spy Ring That Saved America :heavy_minus_sign: Brian Kilmeade, Don Yaeger
 * Bletchly Park and D-Day :heavy_minus_sign: David Kenyon
