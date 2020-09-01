@@ -19,6 +19,7 @@ There are certainly books on this list that have influeneced me more than others
 ### Currently On Deck
 
 * A Seat At The Table: IT Leadership in the Age of Agility :heavy_minus_sign: Eric Martin
+* Culture Wins :heavy_minus_sign: William Vanderbloemen
 
 ### Table of Contents
 
