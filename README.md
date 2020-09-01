@@ -19,6 +19,7 @@ There are certainly books on this list that have influeneced me more than others
 ### Currently On Deck
 
 * Trillion Dollar Coach :heavy_minus_sign: Eric Schmidt, Jonathan Rosenberg, Alan Eagle
+* A Seat At The Table: IT Leadership in the Age of Agility :heavy_minus_sign: Eric Martin
 
 ### Table of Contents
 
