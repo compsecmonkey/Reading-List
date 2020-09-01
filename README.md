@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-50-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-280-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-51-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-281-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 ### Currently On Deck
 
-* Trillion Dollar Coach :heavy_minus_sign: Eric Schmidt, Jonathan Rosenberg, Alan Eagle
 * A Seat At The Table: IT Leadership in the Age of Agility :heavy_minus_sign: Eric Martin
 
 ### Table of Contents
@@ -51,6 +50,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Leadership and Team Building
 
+* Trillion Dollar Coach :heavy_minus_sign: Eric Schmidt, Jonathan Rosenberg, Alan Eagle
 * Leadership Strategy and Tactics :heavy_minus_sign: Jocko Willink
 * Leaders Made Here: Building A Leadership Culture :heavy_minus_sign: Mark Miller
 * Sprint: How to  Solve Big Problems and Test New Ideas in Just Five Days :heavy_minus_sign: Jake Knapp John  Zeratsky Braden Kowitz
