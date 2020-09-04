@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-51-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-281-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-52-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-282-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 ### Currently On Deck
 
-* A Seat At The Table: IT Leadership in the Age of Agility :heavy_minus_sign: Eric Martin
 * Culture Wins :heavy_minus_sign: William Vanderbloemen
 * On Grand Strategy :heavy_minus_sign: John Lewis Gaddis
 
@@ -138,6 +137,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Science, Technology, Engineering, Math
 
+* A Seat At The Table: IT Leadership in the Age of Agility :heavy_minus_sign: Eric Martin
 * The Code: Silicon Valley and the Remaking of America :heavy_minus_sign: Margaret O'Mara
 * Console Wars: Sega, Nintendo, and the Battle That Defined a Generation :heavy_minus_sign: Blake Harris 
 * *Samsung Rising:* The Inside Story of the South Korean Giant That Set Out to Beat Apple and Conquer Tech :heavy_minus_sign:	Geoffrey Cain
