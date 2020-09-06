@@ -20,6 +20,7 @@ There are certainly books on this list that have influeneced me more than others
 
 * Culture Wins :heavy_minus_sign: William Vanderbloemen
 * On Grand Strategy :heavy_minus_sign: John Lewis Gaddis
+* Thinking in Systems: A Primer :heavy_minus_sign: Donella H. Meadows
 
 ### Table of Contents
 
