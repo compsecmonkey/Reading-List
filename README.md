@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-52-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-282-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-53-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-283-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 ### Currently On Deck
 
-* Culture Wins :heavy_minus_sign: William Vanderbloemen
 * On Grand Strategy :heavy_minus_sign: John Lewis Gaddis
 * Thinking in Systems: A Primer :heavy_minus_sign: Donella H. Meadows
 
@@ -52,6 +51,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Leadership and Team Building
 
+* Culture Wins :heavy_minus_sign: William Vanderbloemen
 * Trillion Dollar Coach :heavy_minus_sign: Eric Schmidt, Jonathan Rosenberg, Alan Eagle
 * Leadership Strategy and Tactics :heavy_minus_sign: Jocko Willink
 * Leaders Made Here: Building A Leadership Culture :heavy_minus_sign: Mark Miller
