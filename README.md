@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-53-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-283-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-54-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-284-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 ### Currently On Deck
 
-* On Grand Strategy :heavy_minus_sign: John Lewis Gaddis
 * Thinking in Systems: A Primer :heavy_minus_sign: Donella H. Meadows
 
 ### Table of Contents
@@ -31,6 +30,7 @@ There are certainly books on this list that have influeneced me more than others
 * [Military / Government](#Military--Government)
 * [Personal / Self-Help](#Personal--Self-Help)
 * [Politics](#Politics)
+* [Misc](#Misc)
 * [Fun](#Fun)
 * [Reference Books](#Reference-Books)
   * [C](#C)
@@ -281,6 +281,11 @@ There are certainly books on this list that have influeneced me more than others
 * The War On Normal People: The Truth About America's Disappearing Jobs and Why Universal Income Is Our Future :heavy_minus_sign: Andrew Yang
 * Atlas Shurgged :heavy_minus_sign: Ayn Rand
 * Fire and Fury:  Inside the Trump White House :heavy_minus_sign: Michael Wolff
+
+
+## Misc
+
+* On Grand Strategy :heavy_minus_sign: John Lewis Gaddis
 
 
 ## Fun
