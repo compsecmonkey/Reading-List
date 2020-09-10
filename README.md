@@ -19,6 +19,7 @@ There are certainly books on this list that have influeneced me more than others
 ### Currently On Deck
 
 * Thinking in Systems: A Primer :heavy_minus_sign: Donella H. Meadows
+* The Spy and the Traitor: The Greatest Espionage Story of the Cold War :heavy_minus_sign: Ben Macintyre
 
 ### Table of Contents
 
