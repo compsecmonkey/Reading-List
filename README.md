@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-54-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-284-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-55-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-285-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 ### Currently On Deck
 
-* Thinking in Systems: A Primer :heavy_minus_sign: Donella H. Meadows
 * The Spy and the Traitor: The Greatest Espionage Story of the Cold War :heavy_minus_sign: Ben Macintyre
 
 ### Table of Contents
@@ -287,6 +286,7 @@ There are certainly books on this list that have influeneced me more than others
 ## Misc
 
 * On Grand Strategy :heavy_minus_sign: John Lewis Gaddis
+* Thinking in Systems: A Primer :heavy_minus_sign: Donella H. Meadows
 
 
 ## Fun
