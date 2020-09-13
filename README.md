@@ -19,6 +19,8 @@ There are certainly books on this list that have influeneced me more than others
 ### Currently On Deck
 
 * The Spy and the Traitor: The Greatest Espionage Story of the Cold War :heavy_minus_sign: Ben Macintyre
+* Good Authority: How to Become the Leader Your Team Is Waiting For :heavy_minus_sign: 
+
 
 ### Table of Contents
 
