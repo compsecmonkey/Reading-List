@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 ### Currently On Deck
 
-* The Spy and the Traitor: The Greatest Espionage Story of the Cold War :heavy_minus_sign: Ben Macintyre
 * Good Authority: How to Become the Leader Your Team Is Waiting For :heavy_minus_sign: Jonathan Raymond
 * Ender's Game :heavy_minus_sign: Orson Scott Card
 
@@ -211,6 +210,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Military / Government
 
+* The Spy and the Traitor: The Greatest Espionage Story of the Cold War :heavy_minus_sign: Ben Macintyre
 * Countdown 1945 :heavy_minus_sign:  Chris Wallace, Mitch Weiss
 * Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History :heavy_minus_sign: Brian Kilmeade, Don Yaeger
 * George Washington's Secret Six: The Spy Ring That Saved America :heavy_minus_sign: Brian Kilmeade, Don Yaeger
