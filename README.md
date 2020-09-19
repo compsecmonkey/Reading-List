@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-56-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-286-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-57-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-287-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 ### Currently On Deck
 
-* Good Authority: How to Become the Leader Your Team Is Waiting For :heavy_minus_sign: Jonathan Raymond
 * Ender's Game :heavy_minus_sign: Orson Scott Card
 
 
@@ -53,6 +52,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Leadership and Team Building
 
+* Good Authority: How to Become the Leader Your Team Is Waiting For :heavy_minus_sign: Jonathan Raymond
 * Culture Wins :heavy_minus_sign: William Vanderbloemen
 * Trillion Dollar Coach :heavy_minus_sign: Eric Schmidt, Jonathan Rosenberg, Alan Eagle
 * Leadership Strategy and Tactics :heavy_minus_sign: Jocko Willink
