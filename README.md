@@ -19,6 +19,7 @@ There are certainly books on this list that have influeneced me more than others
 ### Currently On Deck
 
 * Ender's Game :heavy_minus_sign: Orson Scott Card
+* Ministers at War: Winston Churchill and His War Cabinet :heavy_minus_sign: Jonathan Schneer
 
 
 ### Table of Contents
