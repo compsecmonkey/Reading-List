@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-57-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-287-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-58-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-288-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 ### Currently On Deck
 
-* Ender's Game :heavy_minus_sign: Orson Scott Card
 * Ministers at War: Winston Churchill and His War Cabinet :heavy_minus_sign: Jonathan Schneer
 
 
@@ -295,6 +294,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Fun
 
+* Ender's Game :heavy_minus_sign: Orson Scott Card
 * CyberSpace: A  CyberStorm Novel (Cyber Series, Book 1) :heavy_minus_sign: Matthew Mather
 * Star Wars: The  Thrawn Trilogy, Book 3: The Last Command :heavy_minus_sign: Timothy Zahn
 * Star Wars: Dark  Force Rising: The Thrawn Trilogy, Book 2 :heavy_minus_sign: Timothy Zahn
