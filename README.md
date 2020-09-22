@@ -19,6 +19,7 @@ There are certainly books on this list that have influeneced me more than others
 ### Currently On Deck
 
 * Ministers at War: Winston Churchill and His War Cabinet :heavy_minus_sign: Jonathan Schneer
+* The Last Warrior: Andrew Marshall and the Shaping of Modern American Defense Strategy :heavy_minus_sign: Andrew Krepinevich, Barry Watts
 
 
 ### Table of Contents
