@@ -16,14 +16,14 @@ Right now the list is contained to just this readme with titles and authors brok
 
 There are certainly books on this list that have influeneced me more than others but few that I would flat out not recommend reading. For now I have refrained from marking particular books as highly recommended or don't recommend. However, if you are interested in recommendations or want to talk about a certain category / book I am always open to the conversation!
 
-### Currently On Deck
+# Currently On Deck
 
 * Ministers at War: Winston Churchill and His War Cabinet :heavy_minus_sign: Jonathan Schneer
 * The Pleasure of Finding Things Out :heavy_minus_sign: Richard P. Feynman
 * The Last Warrior: Andrew Marshall and the Shaping of Modern American Defense Strategy :heavy_minus_sign: Andrew Krepinevich, Barry Watts
 
 
-### Table of Contents
+# Table of Contents
 
 * [Leadership and Team Building](#Leadership-and-Team-Building)
 * [Memoirs](#Memoirs)
