@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-58-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-288-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-59-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-289-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* Ministers at War: Winston Churchill and His War Cabinet :heavy_minus_sign: Jonathan Schneer
 * The Pleasure of Finding Things Out :heavy_minus_sign: Richard P. Feynman
 * The Last Warrior: Andrew Marshall and the Shaping of Modern American Defense Strategy :heavy_minus_sign: Andrew Krepinevich, Barry Watts
 
@@ -212,6 +211,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Military / Government
 
+* Ministers at War: Winston Churchill and His War Cabinet :heavy_minus_sign: Jonathan Schneer
 * The Spy and the Traitor: The Greatest Espionage Story of the Cold War :heavy_minus_sign: Ben Macintyre
 * Countdown 1945 :heavy_minus_sign:  Chris Wallace, Mitch Weiss
 * Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History :heavy_minus_sign: Brian Kilmeade, Don Yaeger
