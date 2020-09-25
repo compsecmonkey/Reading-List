@@ -20,6 +20,7 @@ There are certainly books on this list that have influeneced me more than others
 
 * The Pleasure of Finding Things Out :heavy_minus_sign: Richard P. Feynman
 * The Last Warrior: Andrew Marshall and the Shaping of Modern American Defense Strategy :heavy_minus_sign: Andrew Krepinevich, Barry Watts
+* The Art of HUNTING HUMANS: A radical and confronting explanation of the human mind :heavy_minus_sign: Sidney Mazzi
 
 
 # Table of Contents
