@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-59-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-289-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-60-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-290-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* The Pleasure of Finding Things Out :heavy_minus_sign: Richard P. Feynman
 * The Last Warrior: Andrew Marshall and the Shaping of Modern American Defense Strategy :heavy_minus_sign: Andrew Krepinevich, Barry Watts
 * The Art of HUNTING HUMANS: A radical and confronting explanation of the human mind :heavy_minus_sign: Sidney Mazzi
 
@@ -142,6 +141,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Science, Technology, Engineering, Math
 
+* The Pleasure of Finding Things Out :heavy_minus_sign: Richard P. Feynman
 * A Seat At The Table: IT Leadership in the Age of Agility :heavy_minus_sign: Eric Martin
 * The Code: Silicon Valley and the Remaking of America :heavy_minus_sign: Margaret O'Mara
 * Console Wars: Sega, Nintendo, and the Battle That Defined a Generation :heavy_minus_sign: Blake Harris 
