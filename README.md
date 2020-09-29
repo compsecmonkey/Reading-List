@@ -19,6 +19,7 @@ There are certainly books on this list that have influeneced me more than others
 # Currently On Deck
 
 * The Last Warrior: Andrew Marshall and the Shaping of Modern American Defense Strategy :heavy_minus_sign: Andrew Krepinevich, Barry Watts
+* Blood, Sweat, and Pixels :heavy_minus_sign: Jason Schreier
 
 
 # Table of Contents
