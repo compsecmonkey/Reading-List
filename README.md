@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-60-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-290-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-61-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-291-blue)
 
 #  My Reading List
 
@@ -19,7 +19,6 @@ There are certainly books on this list that have influeneced me more than others
 # Currently On Deck
 
 * The Last Warrior: Andrew Marshall and the Shaping of Modern American Defense Strategy :heavy_minus_sign: Andrew Krepinevich, Barry Watts
-* The Art of HUNTING HUMANS: A radical and confronting explanation of the human mind :heavy_minus_sign: Sidney Mazzi
 
 
 # Table of Contents
@@ -53,6 +52,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Leadership and Team Building
 
+* The Art of HUNTING HUMANS: A radical and confronting explanation of the human mind :heavy_minus_sign: Sidney Mazzi
 * Good Authority: How to Become the Leader Your Team Is Waiting For :heavy_minus_sign: Jonathan Raymond
 * Culture Wins :heavy_minus_sign: William Vanderbloemen
 * Trillion Dollar Coach :heavy_minus_sign: Eric Schmidt, Jonathan Rosenberg, Alan Eagle
