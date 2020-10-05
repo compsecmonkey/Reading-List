@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* The Last Warrior: Andrew Marshall and the Shaping of Modern American Defense Strategy :heavy_minus_sign: Andrew Krepinevich, Barry Watts
 * Blood, Sweat, and Pixels :heavy_minus_sign: Jason Schreier
 * Thinking, Fast and Slow :heavy_minus_sign: Daniel Kahneman
 
@@ -143,6 +142,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Science, Technology, Engineering, Math
 
+* The Last Warrior: Andrew Marshall and the Shaping of Modern American Defense Strategy :heavy_minus_sign: Andrew Krepinevich, Barry Watts
 * The Pleasure of Finding Things Out :heavy_minus_sign: Richard P. Feynman
 * A Seat At The Table: IT Leadership in the Age of Agility :heavy_minus_sign: Eric Martin
 * The Code: Silicon Valley and the Remaking of America :heavy_minus_sign: Margaret O'Mara
