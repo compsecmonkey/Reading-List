@@ -19,6 +19,7 @@ There are certainly books on this list that have influeneced me more than others
 # Currently On Deck
 
 * Blood, Sweat, and Pixels :heavy_minus_sign: Jason Schreier
+* Decision Points :heavy_minus_sign: George W. Bush
 * Thinking, Fast and Slow :heavy_minus_sign: Daniel Kahneman
 
 
