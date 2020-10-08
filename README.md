@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-62-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-292-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-63-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-293-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* Blood, Sweat, and Pixels :heavy_minus_sign: Jason Schreier
 * Decision Points :heavy_minus_sign: George W. Bush
 * Thinking, Fast and Slow :heavy_minus_sign: Daniel Kahneman
 
@@ -143,7 +142,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Science, Technology, Engineering, Math
 
-* The Last Warrior: Andrew Marshall and the Shaping of Modern American Defense Strategy :heavy_minus_sign: Andrew Krepinevich, Barry Watts
+* Blood, Sweat, and Pixels :heavy_minus_sign: Jason Schreier
 * The Pleasure of Finding Things Out :heavy_minus_sign: Richard P. Feynman
 * A Seat At The Table: IT Leadership in the Age of Agility :heavy_minus_sign: Eric Martin
 * The Code: Silicon Valley and the Remaking of America :heavy_minus_sign: Margaret O'Mara
@@ -215,6 +214,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Military / Government
 
+* The Last Warrior: Andrew Marshall and the Shaping of Modern American Defense Strategy :heavy_minus_sign: Andrew Krepinevich, Barry Watts
 * Ministers at War: Winston Churchill and His War Cabinet :heavy_minus_sign: Jonathan Schneer
 * The Spy and the Traitor: The Greatest Espionage Story of the Cold War :heavy_minus_sign: Ben Macintyre
 * Countdown 1945 :heavy_minus_sign:  Chris Wallace, Mitch Weiss
