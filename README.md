@@ -19,6 +19,7 @@ There are certainly books on this list that have influeneced me more than others
 # Currently On Deck
 
 * Thinking, Fast and Slow :heavy_minus_sign: Daniel Kahneman
+* Barrel-Aged Stout and Selling Out: Goose Island, Anheuser-Busch, and How Craft Beer Became Big Business :heavy_minus_sign: Josh Noel
 
 
 # Table of Contents
