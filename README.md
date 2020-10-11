@@ -20,6 +20,7 @@ There are certainly books on this list that have influeneced me more than others
 
 * Thinking, Fast and Slow :heavy_minus_sign: Daniel Kahneman
 * Barrel-Aged Stout and Selling Out: Goose Island, Anheuser-Busch, and How Craft Beer Became Big Business :heavy_minus_sign: Josh Noel
+* The Five Love Languages: The Secret to Love That Lasts :heavy_minus_sign: Gary Chapman
 
 
 # Table of Contents
