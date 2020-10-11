@@ -19,6 +19,7 @@ There are certainly books on this list that have influeneced me more than others
 # Currently On Deck
 
 * Thinking, Fast and Slow :heavy_minus_sign: Daniel Kahneman
+* Three Minutes to Doomsday: An Agent, a Traitor, and the Worst Espionage Breach in U.S. History :heavy_minus_sign: Joe Navarro
 * Barrel-Aged Stout and Selling Out: Goose Island, Anheuser-Busch, and How Craft Beer Became Big Business :heavy_minus_sign: Josh Noel
 * The Five Love Languages: The Secret to Love That Lasts :heavy_minus_sign: Gary Chapman
 
