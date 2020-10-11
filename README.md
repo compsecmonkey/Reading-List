@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-63-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-293-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-64-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-294-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* Decision Points :heavy_minus_sign: George W. Bush
 * Thinking, Fast and Slow :heavy_minus_sign: Daniel Kahneman
 
 
@@ -94,6 +93,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Memoirs
 
+* Decision Points :heavy_minus_sign: George W. Bush
 * The Ride of a  Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company :heavy_minus_sign: Robert Iger
 * My Share of the  Task: A Memoir :heavy_minus_sign: Gen. Stanley  McChrystal
 * Sea Stories: My  Life in Special Operations :heavy_minus_sign: William H. McRaven
