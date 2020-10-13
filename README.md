@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-64-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-294-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-65-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-295-blue)
 
 #  My Reading List
 
@@ -19,7 +19,6 @@ There are certainly books on this list that have influeneced me more than others
 # Currently On Deck
 
 * Thinking, Fast and Slow :heavy_minus_sign: Daniel Kahneman
-* Three Minutes to Doomsday: An Agent, a Traitor, and the Worst Espionage Breach in U.S. History :heavy_minus_sign: Joe Navarro
 * Barrel-Aged Stout and Selling Out: Goose Island, Anheuser-Busch, and How Craft Beer Became Big Business :heavy_minus_sign: Josh Noel
 * The Five Love Languages: The Secret to Love That Lasts :heavy_minus_sign: Gary Chapman
 
@@ -217,6 +216,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Military / Government
 
+* Three Minutes to Doomsday: An Agent, a Traitor, and the Worst Espionage Breach in U.S. History :heavy_minus_sign: Joe Navarro
 * The Last Warrior: Andrew Marshall and the Shaping of Modern American Defense Strategy :heavy_minus_sign: Andrew Krepinevich, Barry Watts
 * Ministers at War: Winston Churchill and His War Cabinet :heavy_minus_sign: Jonathan Schneer
 * The Spy and the Traitor: The Greatest Espionage Story of the Cold War :heavy_minus_sign: Ben Macintyre
