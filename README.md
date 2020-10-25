@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-65-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-295-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-66-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-296-blue)
 
 #  My Reading List
 
@@ -19,7 +19,6 @@ There are certainly books on this list that have influeneced me more than others
 # Currently On Deck
 
 * Thinking, Fast and Slow :heavy_minus_sign: Daniel Kahneman
-* Barrel-Aged Stout and Selling Out: Goose Island, Anheuser-Busch, and How Craft Beer Became Big Business :heavy_minus_sign: Josh Noel
 * The Five Love Languages: The Secret to Love That Lasts :heavy_minus_sign: Gary Chapman
 
 
@@ -299,6 +298,7 @@ There are certainly books on this list that have influeneced me more than others
 
 * On Grand Strategy :heavy_minus_sign: John Lewis Gaddis
 * Thinking in Systems: A Primer :heavy_minus_sign: Donella H. Meadows
+* Barrel-Aged Stout and Selling Out: Goose Island, Anheuser-Busch, and How Craft Beer Became Big Business :heavy_minus_sign: Josh Noel
 
 
 ## Fun
