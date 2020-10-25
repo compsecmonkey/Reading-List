@@ -19,6 +19,7 @@ There are certainly books on this list that have influeneced me more than others
 # Currently On Deck
 
 * Thinking, Fast and Slow :heavy_minus_sign: Daniel Kahneman
+* Surprise, Kill, Vanish: The Secret History of CIA Paramilitary Armies, Operators, and Assassins :heavy_minus_sign: Annie Jacobsen
 
 
 # Table of Contents
