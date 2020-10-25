@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-66-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-296-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-67-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-297-blue)
 
 #  My Reading List
 
@@ -19,7 +19,6 @@ There are certainly books on this list that have influeneced me more than others
 # Currently On Deck
 
 * Thinking, Fast and Slow :heavy_minus_sign: Daniel Kahneman
-* The Five Love Languages: The Secret to Love That Lasts :heavy_minus_sign: Gary Chapman
 
 
 # Table of Contents
@@ -251,6 +250,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Personal / Self-Help
 
+* The Five Love Languages: The Secret to Love That Lasts :heavy_minus_sign: Gary Chapman
 * Thinking in Bets:  Making Smarter Decisions When You Don't Have All the Facts :heavy_minus_sign: Annie Duke
 * Exactly What to  Say: The Magic Words for Influence and Impact :heavy_minus_sign: Phil M. Jones
 * Talking to  Strangers: What We Should Know About the People We Don't Know :heavy_minus_sign: Malcolm Gladwell
