@@ -19,7 +19,7 @@ There are certainly books on this list that have influeneced me more than others
 # Currently On Deck
 
 * Thinking, Fast and Slow :heavy_minus_sign: Daniel Kahneman
-* Surprise, Kill, Vanish: The Secret History of CIA Paramilitary Armies, Operators, and Assassins :heavy_minus_sign: Annie Jacobsen
+
 
 
 # Table of Contents
@@ -215,6 +215,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Military / Government
 
+* Surprise, Kill, Vanish: The Secret History of CIA Paramilitary Armies, Operators, and Assassins :heavy_minus_sign: Annie Jacobsen
 * Three Minutes to Doomsday: An Agent, a Traitor, and the Worst Espionage Breach in U.S. History :heavy_minus_sign: Joe Navarro
 * The Last Warrior: Andrew Marshall and the Shaping of Modern American Defense Strategy :heavy_minus_sign: Andrew Krepinevich, Barry Watts
 * Ministers at War: Winston Churchill and His War Cabinet :heavy_minus_sign: Jonathan Schneer
