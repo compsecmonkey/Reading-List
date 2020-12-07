@@ -18,6 +18,7 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
+* To Catch a Spy: The Art of Counterintelligence :heavy_minus_sign: James M. Olson
 * Thinking, Fast and Slow :heavy_minus_sign: Daniel Kahneman
 
 
