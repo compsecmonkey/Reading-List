@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-71-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-301-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-72-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-302-blue)
 
 #  My Reading List
 
@@ -306,6 +306,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Fun
 
+* Tom Clancy Shadow of the Dragon :heavy_minus_sign: Marc Cameron
 * From a Certain Point of View: The Empire Strikes Back :heavy_minus_sign: Seth Dickinson , Hank Green , R. F. Kuang , Martha Wells , Kiersten White
 * Tom Clancy Firing Point :heavy_minus_sign: Mike Maden
 * Ender's Game :heavy_minus_sign: Orson Scott Card
