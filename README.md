@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-72-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-302-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-73-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-303-blue)
 
 #  My Reading List
 
@@ -53,6 +53,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Leadership and Team Building
 
+* Drive: The Surprising Truth About What Motivates Us :heavy_minus_sign: Daniel H. Pink
 * The Art of HUNTING HUMANS: A radical and confronting explanation of the human mind :heavy_minus_sign: Sidney Mazzi
 * Good Authority: How to Become the Leader Your Team Is Waiting For :heavy_minus_sign: Jonathan Raymond
 * Culture Wins :heavy_minus_sign: William Vanderbloemen
