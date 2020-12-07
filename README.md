@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-67-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-297-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-69-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-299-blue)
 
 #  My Reading List
 
@@ -305,6 +305,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Fun
 
+* Tom Clancy Firing Point :heavy_minus_sign: Mike Maden
 * Ender's Game :heavy_minus_sign: Orson Scott Card
 * CyberSpace: A  CyberStorm Novel (Cyber Series, Book 1) :heavy_minus_sign: Matthew Mather
 * Star Wars: The  Thrawn Trilogy, Book 3: The Last Command :heavy_minus_sign: Timothy Zahn
