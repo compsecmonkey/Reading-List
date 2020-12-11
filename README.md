@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-73-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-303-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-74-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-304-blue)
 
 #  My Reading List
 
@@ -18,7 +18,7 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* To Catch a Spy: The Art of Counterintelligence :heavy_minus_sign: James M. Olson
+
 * Thinking, Fast and Slow :heavy_minus_sign: Daniel Kahneman
 
 
@@ -217,6 +217,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Military / Government
 
+* To Catch a Spy: The Art of Counterintelligence :heavy_minus_sign: James M. Olson
 * Surprise, Kill, Vanish: The Secret History of CIA Paramilitary Armies, Operators, and Assassins :heavy_minus_sign: Annie Jacobsen
 * Three Minutes to Doomsday: An Agent, a Traitor, and the Worst Espionage Breach in U.S. History :heavy_minus_sign: Joe Navarro
 * The Last Warrior: Andrew Marshall and the Shaping of Modern American Defense Strategy :heavy_minus_sign: Andrew Krepinevich, Barry Watts
