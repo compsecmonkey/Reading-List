@@ -18,7 +18,7 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-
+* A Promised Land :heavy_minus_sign: Barack Obama
 * Thinking, Fast and Slow :heavy_minus_sign: Daniel Kahneman
 
 
