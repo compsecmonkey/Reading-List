@@ -18,6 +18,7 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
+* Thrawn (Star Wars) :heavy_minus_sign: Timothy Zahn
 * Free to Focus: A Total Productivity System to Achieve More by Doing Less :heavy_minus_sign: Michael Hyatt
 * Thinking, Fast and Slow :heavy_minus_sign: Daniel Kahneman
 
