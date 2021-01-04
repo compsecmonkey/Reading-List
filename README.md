@@ -1,4 +1,4 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-0-success)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-1-success)
 ![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-305-blue)
 
 #  My Reading List
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* Thrawn (Star Wars) :heavy_minus_sign: Timothy Zahn
 * Free to Focus: A Total Productivity System to Achieve More by Doing Less :heavy_minus_sign: Michael Hyatt
 * Thinking, Fast and Slow :heavy_minus_sign: Daniel Kahneman
 
@@ -311,6 +310,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Fun
 
+* Thrawn (Star Wars) :heavy_minus_sign: Timothy Zahn
 * Tom Clancy Shadow of the Dragon :heavy_minus_sign: Marc Cameron
 * From a Certain Point of View: The Empire Strikes Back :heavy_minus_sign: Seth Dickinson , Hank Green , R. F. Kuang , Martha Wells , Kiersten White
 * Tom Clancy Firing Point :heavy_minus_sign: Mike Maden
