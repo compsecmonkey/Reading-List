@@ -18,8 +18,8 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
+* Agent Zigzag: A True Story of Nazi Espionage, Love, and Betrayal :heavy_minus_sign: Ben MacIntyre
 * Thinking, Fast and Slow :heavy_minus_sign: Daniel Kahneman
-
 
 
 # Table of Contents
