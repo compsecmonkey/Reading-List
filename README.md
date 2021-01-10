@@ -48,6 +48,7 @@ There are certainly books on this list that have influeneced me more than others
   * [Reverse Engineering](Reverse-Engineering)
   * [Scripting](#Scripting)
   * [Software Engineering](#Software-Engineering)
+* [Podcasts](#Podcasts)
 * [Stats](#Stats)
   
   
@@ -502,6 +503,14 @@ These are technical books that I have not neccessarily read cover to cover but o
 
 * Software Engineering: Thoery and Practices :heavy_minus_sign: Pfleeger, Altee
 * Software Engineering: 8 :heavy_minus_sign: Sommerville
+
+
+# Podcasts
+
+Podcasts that I actively follow and enjoy. I tend to listen to podcasts in batchs (dont listen for several months and catch up in one big group)
+
+* Mission Log - https://podcasts.google.com/feed/aHR0cDovL21pc3Npb25sb2cubGlic3luLmNvbS9yc3M
+* Home Assistant - https://podcasts.google.com/feed/aHR0cHM6Ly9oYXNzcG9kY2FzdC5pby9mZWVkL3BvZGNhc3Q
 
 
 # Stats
