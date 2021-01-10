@@ -48,6 +48,7 @@ There are certainly books on this list that have influeneced me more than others
   * [Reverse Engineering](Reverse-Engineering)
   * [Scripting](#Scripting)
   * [Software Engineering](#Software-Engineering)
+* [Stats](#Stats)
   
   
 
@@ -502,3 +503,6 @@ These are technical books that I have not neccessarily read cover to cover but o
 * Software Engineering: Thoery and Practices :heavy_minus_sign: Pfleeger, Altee
 * Software Engineering: 8 :heavy_minus_sign: Sommerville
 
+
+# Stats
+* 2020 - 77
