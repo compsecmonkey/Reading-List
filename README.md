@@ -505,4 +505,4 @@ These are technical books that I have not neccessarily read cover to cover but o
 
 
 # Stats
-* 2020 - 77
+* 2020 - 75
