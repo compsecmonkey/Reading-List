@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-2-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-307-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-3-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-308-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* Agent Zigzag: A True Story of Nazi Espionage, Love, and Betrayal :heavy_minus_sign: Ben MacIntyre
 * Thinking, Fast and Slow :heavy_minus_sign: Daniel Kahneman
 
 
@@ -219,6 +218,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Military / Government
 
+* Agent Zigzag: A True Story of Nazi Espionage, Love, and Betrayal :heavy_minus_sign: Ben MacIntyre
 * To Catch a Spy: The Art of Counterintelligence :heavy_minus_sign: James M. Olson
 * Surprise, Kill, Vanish: The Secret History of CIA Paramilitary Armies, Operators, and Assassins :heavy_minus_sign: Annie Jacobsen
 * Three Minutes to Doomsday: An Agent, a Traitor, and the Worst Espionage Breach in U.S. History :heavy_minus_sign: Joe Navarro
