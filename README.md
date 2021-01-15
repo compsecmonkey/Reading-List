@@ -18,6 +18,7 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
+* The Cryotron Files: The Untold Story of Dudley Buck, Cold War Computer Scientist and Microchip Pioneer :heavy_minus_sign: Iain Dey , Douglas Buck , Alan Dewey
 * Thinking, Fast and Slow :heavy_minus_sign: Daniel Kahneman
 
 
