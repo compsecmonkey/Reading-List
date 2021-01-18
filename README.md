@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-3-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-308-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-4-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-309-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* The Cryotron Files: The Untold Story of Dudley Buck, Cold War Computer Scientist and Microchip Pioneer :heavy_minus_sign: Iain Dey , Douglas Buck , Alan Dewey
 * Thinking, Fast and Slow :heavy_minus_sign: Daniel Kahneman
 * Thrawn: Alliances :heavy_minus_sign: Timothy Zahn
 
@@ -148,6 +147,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Science, Technology, Engineering, Math
 
+* The Cryotron Files: The Untold Story of Dudley Buck, Cold War Computer Scientist and Microchip Pioneer :heavy_minus_sign: Iain Dey , Douglas Buck , Alan Dewey
 * Blood, Sweat, and Pixels :heavy_minus_sign: Jason Schreier
 * The Pleasure of Finding Things Out :heavy_minus_sign: Richard P. Feynman
 * A Seat At The Table: IT Leadership in the Age of Agility :heavy_minus_sign: Eric Martin
