@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-4-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-309-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-5-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-310-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* Thrawn: Alliances :heavy_minus_sign: Timothy Zahn
 * Shoe Dog :heavy_minus_sign: Phil Knight
 
 
@@ -314,6 +313,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Fun
 
+* Thrawn: Alliances :heavy_minus_sign: Timothy Zahn
 * Thrawn (Star Wars) :heavy_minus_sign: Timothy Zahn
 * Tom Clancy Shadow of the Dragon :heavy_minus_sign: Marc Cameron
 * From a Certain Point of View: The Empire Strikes Back :heavy_minus_sign: Seth Dickinson , Hank Green , R. F. Kuang , Martha Wells , Kiersten White
