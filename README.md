@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-5-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-310-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-6-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-311-blue)
 
 #  My Reading List
 
@@ -18,7 +18,7 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-
+* First Man: The Life of Neil A. Armstrong :heavy_minus_sign: James R. Hansen
 
 
 # Table of Contents
