@@ -18,7 +18,7 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* Shoe Dog :heavy_minus_sign: Phil Knight
+
 
 
 # Table of Contents
@@ -96,6 +96,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Memoirs
 
+* Shoe Dog :heavy_minus_sign: Phil Knight
 * A Promised Land :heavy_minus_sign: Barack Obama
 * Decision Points :heavy_minus_sign: George W. Bush
 * The Ride of a  Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company :heavy_minus_sign: Robert Iger
