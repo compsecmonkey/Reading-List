@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-6-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-311-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-7-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-312-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* First Man: The Life of Neil A. Armstrong :heavy_minus_sign: James R. Hansen
 
 
 # Table of Contents
@@ -94,8 +93,9 @@ There are certainly books on this list that have influeneced me more than others
 * Developing the  Leaders Around You :heavy_minus_sign: John C. Maxwell
   
 
-## Memoirs
+## Memoirs / Biographys 
 
+* First Man: The Life of Neil A. Armstrong :heavy_minus_sign: James R. Hansen
 * Shoe Dog :heavy_minus_sign: Phil Knight
 * A Promised Land :heavy_minus_sign: Barack Obama
 * Decision Points :heavy_minus_sign: George W. Bush
