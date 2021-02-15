@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-7-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-312-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-8-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-313-blue)
 
 #  My Reading List
 
@@ -18,7 +18,7 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* Thrawn: Treason :heavy_minus_sign: Timothy Zahn
+* Thrawn Ascendancy: Chaos Rising, Book 1 :heavy_minus_sign: Timothy Zahn
 
 # Table of Contents
 
@@ -314,6 +314,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Fun
 
+* Thrawn: Treason :heavy_minus_sign: Timothy Zahn
 * Thrawn: Alliances :heavy_minus_sign: Timothy Zahn
 * Thrawn (Star Wars) :heavy_minus_sign: Timothy Zahn
 * Tom Clancy Shadow of the Dragon :heavy_minus_sign: Marc Cameron
