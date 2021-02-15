@@ -19,6 +19,7 @@ There are certainly books on this list that have influeneced me more than others
 # Currently On Deck
 
 * Thrawn Ascendancy: Chaos Rising, Book 1 :heavy_minus_sign: Timothy Zahn
+* The Perfectionists: How Precision Engineers Created the Modern World :heavy_minus_sign: Simon Winchester
 
 # Table of Contents
 
