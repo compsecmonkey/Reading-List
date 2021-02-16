@@ -20,6 +20,7 @@ There are certainly books on this list that have influeneced me more than others
 
 * Thrawn Ascendancy: Chaos Rising, Book 1 :heavy_minus_sign: Timothy Zahn
 * The Perfectionists: How Precision Engineers Created the Modern World :heavy_minus_sign: Simon Winchester
+* Chasing the Demon: A Secret History of the Quest for the Sound Barrier, and the Band of American Aces Who Conquered It :heavy_minus_sign: Dan Hampton
 
 # Table of Contents
 
