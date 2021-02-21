@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-8-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-313-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-9-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-314-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* Thrawn Ascendancy: Chaos Rising, Book 1 :heavy_minus_sign: Timothy Zahn
 * The Perfectionists: How Precision Engineers Created the Modern World :heavy_minus_sign: Simon Winchester
 * Chasing the Demon: A Secret History of the Quest for the Sound Barrier, and the Band of American Aces Who Conquered It :heavy_minus_sign: Dan Hampton
 
@@ -316,6 +315,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Fun
 
+* Thrawn Ascendancy: Chaos Rising, Book 1 :heavy_minus_sign: Timothy Zahn
 * Thrawn: Treason :heavy_minus_sign: Timothy Zahn
 * Thrawn: Alliances :heavy_minus_sign: Timothy Zahn
 * Thrawn (Star Wars) :heavy_minus_sign: Timothy Zahn
