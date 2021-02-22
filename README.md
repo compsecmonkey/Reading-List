@@ -20,6 +20,7 @@ There are certainly books on this list that have influeneced me more than others
 
 * The Perfectionists: How Precision Engineers Created the Modern World :heavy_minus_sign: Simon Winchester
 * Chasing the Demon: A Secret History of the Quest for the Sound Barrier, and the Band of American Aces Who Conquered It :heavy_minus_sign: Dan Hampton
+* The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics :heavy_minus_sign: Ben Buchanan
 
 # Table of Contents
 
