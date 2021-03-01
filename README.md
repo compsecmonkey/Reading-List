@@ -20,7 +20,6 @@ There are certainly books on this list that have influeneced me more than others
 
 * The Perfectionists: How Precision Engineers Created the Modern World :heavy_minus_sign: Simon Winchester
 * The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics :heavy_minus_sign: Ben Buchanan
-* How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need :heavy_minus_sign: Bill Gates
 * The Machine Stops :heavy_minus_sign: E.M Forster
 
 # Table of Contents
@@ -150,6 +149,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Science, Technology, Engineering, Math
 
+* How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need :heavy_minus_sign: Bill Gates
 * Chasing the Demon: A Secret History of the Quest for the Sound Barrier, and the Band of American Aces Who Conquered It :heavy_minus_sign: Dan Hampton
 * The Cryotron Files: The Untold Story of Dudley Buck, Cold War Computer Scientist and Microchip Pioneer :heavy_minus_sign: Iain Dey , Douglas Buck , Alan Dewey
 * Blood, Sweat, and Pixels :heavy_minus_sign: Jason Schreier
