@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-11-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-316-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-12-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-317-blue)
 
 #  My Reading List
 
@@ -20,7 +20,6 @@ There are certainly books on this list that have influeneced me more than others
 
 * The Perfectionists: How Precision Engineers Created the Modern World :heavy_minus_sign: Simon Winchester
 * The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics :heavy_minus_sign: Ben Buchanan
-* The Machine Stops :heavy_minus_sign: E.M Forster
 
 # Table of Contents
 
@@ -318,6 +317,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Fun
 
+* The Machine Stops :heavy_minus_sign: E.M Forster
 * Thrawn Ascendancy: Chaos Rising, Book 1 :heavy_minus_sign: Timothy Zahn
 * Thrawn: Treason :heavy_minus_sign: Timothy Zahn
 * Thrawn: Alliances :heavy_minus_sign: Timothy Zahn
