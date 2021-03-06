@@ -19,7 +19,6 @@ There are certainly books on this list that have influeneced me more than others
 # Currently On Deck
 
 * The Perfectionists: How Precision Engineers Created the Modern World :heavy_minus_sign: Simon Winchester
-* The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics :heavy_minus_sign: Ben Buchanan
 
 # Table of Contents
 
@@ -119,6 +118,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Cyber
 
+* The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics :heavy_minus_sign: Ben Buchanan
 * Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World :heavy_minus_sign: Joseph Menn
 * The Cuckoo's Egg:  Tracking a Spy Through the Maze of Computer Espionage :heavy_minus_sign: Cliff Stoll
 * Gray Day: My  Undercover Mission to Expose America's First Cyber Spy :heavy_minus_sign: Eric O'Neill
