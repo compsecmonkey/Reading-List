@@ -19,6 +19,7 @@ There are certainly books on this list that have influeneced me more than others
 # Currently On Deck
 
 * Remote: Office Not Required ➖ Jason Fried , David Heinemeier Hansson
+* Digital Apollo: Human and Machine in Spaceflight ➖ David A. Mindell
 
 # Table of Contents
 
