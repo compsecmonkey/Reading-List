@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-12-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-317-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-13-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-318-blue)
 
 #  My Reading List
 
@@ -18,7 +18,7 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-
+* Remote: Office Not Required ➖ Jason Fried , David Heinemeier Hansson
 
 # Table of Contents
 
