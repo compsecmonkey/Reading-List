@@ -18,7 +18,7 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* The Perfectionists: How Precision Engineers Created the Modern World :heavy_minus_sign: Simon Winchester
+
 
 # Table of Contents
 
@@ -148,6 +148,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Science, Technology, Engineering, Math
 
+* The Perfectionists: How Precision Engineers Created the Modern World :heavy_minus_sign: Simon Winchester
 * How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need :heavy_minus_sign: Bill Gates
 * Chasing the Demon: A Secret History of the Quest for the Sound Barrier, and the Band of American Aces Who Conquered It :heavy_minus_sign: Dan Hampton
 * The Cryotron Files: The Untold Story of Dudley Buck, Cold War Computer Scientist and Microchip Pioneer :heavy_minus_sign: Iain Dey , Douglas Buck , Alan Dewey
