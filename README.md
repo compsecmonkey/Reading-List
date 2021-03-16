@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-13-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-318-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-14-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-319-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* Remote: Office Not Required ➖ Jason Fried , David Heinemeier Hansson
 * Digital Apollo: Human and Machine in Spaceflight ➖ David A. Mindell
 
 # Table of Contents
@@ -54,6 +53,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Leadership and Team Building
 
+* Remote: Office Not Required ➖ Jason Fried , David Heinemeier Hansson
 * Drive: The Surprising Truth About What Motivates Us :heavy_minus_sign: Daniel H. Pink
 * The Art of HUNTING HUMANS: A radical and confronting explanation of the human mind :heavy_minus_sign: Sidney Mazzi
 * Good Authority: How to Become the Leader Your Team Is Waiting For :heavy_minus_sign: Jonathan Raymond
