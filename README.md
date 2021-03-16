@@ -18,6 +18,7 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
+* Truth, Lies, and O-Rings: Inside the Space Shuttle Challenger Disaster ➖ Allan J. McDonald , James R. Hansen - contributor
 * Digital Apollo: Human and Machine in Spaceflight ➖ David A. Mindell
 
 # Table of Contents
