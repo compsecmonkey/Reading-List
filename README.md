@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-14-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-319-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-15-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-320-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* Truth, Lies, and O-Rings: Inside the Space Shuttle Challenger Disaster ➖ Allan J. McDonald , James R. Hansen - contributor
 * Digital Apollo: Human and Machine in Spaceflight ➖ David A. Mindell
 
 # Table of Contents
@@ -150,7 +149,8 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Science, Technology, Engineering, Math
 
-* The Perfectionists: How Precision Engineers Created the Modern World :heavy_minus_sign: Simon Winchester
+
+* Truth, Lies, and O-Rings: Inside the Space Shuttle Challenger Disaster ➖ Allan J. McDonald , James R. Hansen - contributor* The Perfectionists: How Precision Engineers Created the Modern World :heavy_minus_sign: Simon Winchester
 * How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need :heavy_minus_sign: Bill Gates
 * Chasing the Demon: A Secret History of the Quest for the Sound Barrier, and the Band of American Aces Who Conquered It :heavy_minus_sign: Dan Hampton
 * The Cryotron Files: The Untold Story of Dudley Buck, Cold War Computer Scientist and Microchip Pioneer :heavy_minus_sign: Iain Dey , Douglas Buck , Alan Dewey
