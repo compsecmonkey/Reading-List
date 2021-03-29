@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-16-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-321-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-17-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-322-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* Catalyst ➖ James Luceno
 * Digital Apollo: Human and Machine in Spaceflight ➖ David A. Mindell
 
 # Table of Contents
@@ -321,6 +320,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Fun
 
+* Catalyst ➖ James Luceno
 * Star Wars: Queen's Shadow ➖ E.K. Johnston
 * The Machine Stops :heavy_minus_sign: E.M Forster
 * Thrawn Ascendancy: Chaos Rising, Book 1 :heavy_minus_sign: Timothy Zahn
