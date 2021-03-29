@@ -18,6 +18,7 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
+* Spaceport Earth: The Reinvention of Spaceflight ➖ Joe Pappalardo
 * Digital Apollo: Human and Machine in Spaceflight ➖ David A. Mindell
 
 # Table of Contents
