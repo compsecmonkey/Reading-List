@@ -19,6 +19,7 @@ There are certainly books on this list that have influeneced me more than others
 # Currently On Deck
 
 * Digital Apollo: Human and Machine in Spaceflight ➖ David A. Mindell
+* The Pragmatic Programmer: 20th Anniversary Edition, 2nd Edition: Your Journey to Mastery ➖ David Thomas , Andrew Hunt
 
 # Table of Contents
 
