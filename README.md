@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-18-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-323-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-19-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-324-blue)
 
 #  My Reading List
 
@@ -19,7 +19,6 @@ There are certainly books on this list that have influeneced me more than others
 # Currently On Deck
 
 * Digital Apollo: Human and Machine in Spaceflight ➖ David A. Mindell
-* Star Wars: Light of the Jedi: The High Republic ➖ Charles Soule
 * The Pragmatic Programmer: 20th Anniversary Edition, 2nd Edition: Your Journey to Mastery ➖ David Thomas , Andrew Hunt
 
 # Table of Contents
@@ -323,6 +322,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Fun
 
+* Star Wars: Light of the Jedi: The High Republic ➖ Charles Soule
 * Catalyst ➖ James Luceno
 * Star Wars: Queen's Shadow ➖ E.K. Johnston
 * The Machine Stops :heavy_minus_sign: E.M Forster
