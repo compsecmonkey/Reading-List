@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-19-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-324-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-20-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-325-blue)
 
 #  My Reading List
 
@@ -19,7 +19,6 @@ There are certainly books on this list that have influeneced me more than others
 # Currently On Deck
 
 * Digital Apollo: Human and Machine in Spaceflight ➖ David A. Mindell
-* The Pragmatic Programmer: 20th Anniversary Edition, 2nd Edition: Your Journey to Mastery ➖ David Thomas , Andrew Hunt
 
 # Table of Contents
 
@@ -150,7 +149,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Science, Technology, Engineering, Math
 
-
+* The Pragmatic Programmer: 20th Anniversary Edition, 2nd Edition: Your Journey to Mastery ➖ David Thomas , Andrew Hunt
 * Spaceport Earth: The Reinvention of Spaceflight ➖ Joe Pappalardo
 * Truth, Lies, and O-Rings: Inside the Space Shuttle Challenger Disaster ➖ Allan J. McDonald , James R. Hansen - contributor* The Perfectionists: How Precision Engineers Created the Modern World :heavy_minus_sign: Simon Winchester
 * How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need :heavy_minus_sign: Bill Gates
