@@ -510,6 +510,7 @@ These are technical books that I have not neccessarily read cover to cover but o
 * Malware Analyst's: Tools and Techniques for Fighting Malicious Code :heavy_minus_sign: Ligh, Adair, Hartstein, Richard
 * Malware: Fighting Malcious Code :heavy_minus_sign: Skoudis
 * Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software :heavy_minus_sign: Sikorski, Honig
+* The Ghidra Book: The Definitive Guide ➖ Chantzis, Fotios
 
 ### Scripting
 
