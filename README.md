@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-21-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-326-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-22-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-327-blue)
 
 #  My Reading List
 
@@ -19,7 +19,6 @@ There are certainly books on this list that have influeneced me more than others
 # Currently On Deck
 
 * Bitcoin Billionaires ➖ Ben Mezrich
-* Steve Jobs ➖ Walter Isaacson
 * Digital Apollo: Human and Machine in Spaceflight ➖ David A. Mindell
 
 # Table of Contents
@@ -98,6 +97,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Memoirs / Biographys 
 
+* Steve Jobs ➖ Walter Isaacson
 * First Man: The Life of Neil A. Armstrong :heavy_minus_sign: James R. Hansen
 * Shoe Dog :heavy_minus_sign: Phil Knight
 * A Promised Land :heavy_minus_sign: Barack Obama
