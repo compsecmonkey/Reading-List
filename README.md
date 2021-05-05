@@ -19,7 +19,7 @@ There are certainly books on this list that have influeneced me more than others
 # Currently On Deck
 
 * Bitcoin Billionaires ➖ Ben Mezrich
-* Digital Apollo: Human and Machine in Spaceflight ➖ David A. Mindell
+* Project Hail Mary ➖ Andy Weir
 
 # Table of Contents
 
