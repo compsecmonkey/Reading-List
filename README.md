@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-22-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-327-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-23-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-328-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* Bitcoin Billionaires ➖ Ben Mezrich
 * Project Hail Mary ➖ Andy Weir
 
 # Table of Contents
@@ -97,6 +96,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Memoirs / Biographys 
 
+* Bitcoin Billionaires ➖ Ben Mezrich
 * Steve Jobs ➖ Walter Isaacson
 * First Man: The Life of Neil A. Armstrong :heavy_minus_sign: James R. Hansen
 * Shoe Dog :heavy_minus_sign: Phil Knight
