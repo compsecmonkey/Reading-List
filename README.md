@@ -19,6 +19,7 @@ There are certainly books on this list that have influeneced me more than others
 # Currently On Deck
 
 * Project Hail Mary ➖ Andy Weir
+* Star Wars: Thrawn Ascendancy (Book II: Greater Good) ➖ Timothy Zahn
 
 # Table of Contents
 
