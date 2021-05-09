@@ -450,6 +450,10 @@ These are technical books that I have not neccessarily read cover to cover but o
 * The Myths of Security :heavy_minus_sign: Viega
 * Effective Monitoring and Alerting 
 
+### Go
+
+* Network Programming With Go ➖ Adam Woodbeck
+
 ### Incident Response / Analysis
 
 * Intelligence-Driven Incident Response: Outwitting the Adversary :heavy_minus_sign: Scott J. Roberts, Rebekah Brown
