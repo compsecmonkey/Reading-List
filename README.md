@@ -508,6 +508,7 @@ These are technical books that I have not neccessarily read cover to cover but o
 
 ### Reverse Engineering
 
+* Practical Binary Analysis ➖ Dennis Andriesse
 * Windows Internals - Part 1: System architecture, processes, threads, memory management, and more :heavy_minus_sign: Pavel Yosifovich, Alex Ionescu, Mark E. Russinovich, David A. Soloman
 * Rootkits and Bootkits: Reversing Modern Malware and Next Generation Threats :heavy_minus_sign: Alex Matrosov, Eugene Rodionov, Sergey Bratus
 * The IDA Pro Book: The unofficial guide to the world's most popular disassembler :heavy_minus_sign: Chris Eagle
