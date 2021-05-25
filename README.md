@@ -453,6 +453,7 @@ These are technical books that I have not neccessarily read cover to cover but o
 ### Go
 
 * Network Programming With Go ➖ Adam Woodbeck
+* Blackhat Go ➖ Chris Patten, Dan Kottmann, and Tom Steele
 
 ### Incident Response / Analysis
 
