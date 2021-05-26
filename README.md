@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-24-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-329-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-25-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-330-blue)
 
 #  My Reading List
 
@@ -18,7 +18,7 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* Star Wars: Thrawn Ascendancy (Book II: Greater Good) ➖ Timothy Zahn
+
 
 # Table of Contents
 
@@ -324,6 +324,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Fun
 
+* Star Wars: Thrawn Ascendancy (Book II: Greater Good) ➖ Timothy Zahn
 * Project Hail Mary ➖ Andy Weir
 * Star Wars: Light of the Jedi: The High Republic ➖ Charles Soule
 * Catalyst ➖ James Luceno
