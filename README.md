@@ -18,7 +18,7 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-
+* Working from Home: Making the New Normal Wokr for You ➖ Karen Mangia
 
 # Table of Contents
 
