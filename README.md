@@ -19,6 +19,7 @@ There are certainly books on this list that have influeneced me more than others
 # Currently On Deck
 
 * Working from Home: Making the New Normal Wokr for You ➖ Karen Mangia
+* The Scout Mindseth: Why Some People See Things Clearly and Others Don't ➖ Julia Galef
 
 # Table of Contents
 
