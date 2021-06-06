@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-25-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-330-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-26-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-331-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* Alphabet Squadron ➖ Alexander Freed
 * Working from Home: Making the New Normal Wokr for You ➖ Karen Mangia
 * The Scout Mindseth: Why Some People See Things Clearly and Others Don't ➖ Julia Galef
 
@@ -326,6 +325,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Fun
 
+* Alphabet Squadron ➖ Alexander Freed
 * Star Wars: Thrawn Ascendancy (Book II: Greater Good) ➖ Timothy Zahn
 * Project Hail Mary ➖ Andy Weir
 * Star Wars: Light of the Jedi: The High Republic ➖ Charles Soule
