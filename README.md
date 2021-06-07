@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-26-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-331-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-27-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-332-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* Working from Home: Making the New Normal Wokr for You ➖ Karen Mangia
 * The Scout Mindseth: Why Some People See Things Clearly and Others Don't ➖ Julia Galef
 
 # Table of Contents
@@ -270,6 +269,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Personal / Self-Help
 
+* Working from Home: Making the New Normal Wokr for You ➖ Karen Mangia
 * Free to Focus: A Total Productivity System to Achieve More by Doing Less :heavy_minus_sign: Michael Hyatt
 * The Five Love Languages: The Secret to Love That Lasts :heavy_minus_sign: Gary Chapman
 * Thinking in Bets:  Making Smarter Decisions When You Don't Have All the Facts :heavy_minus_sign: Annie Duke
