@@ -18,7 +18,7 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* The Scout Mindseth: Why Some People See Things Clearly and Others Don't ➖ Julia Galef
+* The Scout Mindset: Why Some People See Things Clearly and Others Don't ➖ Julia Galef
 
 # Table of Contents
 
