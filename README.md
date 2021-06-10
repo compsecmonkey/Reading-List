@@ -457,6 +457,7 @@ These are technical books that I have not neccessarily read cover to cover but o
 
 * Network Programming With Go ➖ Adam Woodbeck
 * Blackhat Go ➖ Chris Patten, Dan Kottmann, and Tom Steele
+* Cloud Native Go ➖ Matthew A. Titmus
 
 ### Incident Response / Analysis
 
