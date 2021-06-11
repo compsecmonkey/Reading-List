@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-28-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-333-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-29-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-334-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* My Inventions: The Autobiography of Nikola Tesla ➖ Nikola Tesla
 * Shadow Fall (Star Wars): An Alphabet Squadron Novel ➖ Alexander Freed
 
 # Table of Contents
@@ -97,6 +96,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Memoirs / Biographys 
 
+* My Inventions: The Autobiography of Nikola Tesla ➖ Nikola Tesla
 * Bitcoin Billionaires ➖ Ben Mezrich
 * Steve Jobs ➖ Walter Isaacson
 * First Man: The Life of Neil A. Armstrong :heavy_minus_sign: James R. Hansen
