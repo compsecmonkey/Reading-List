@@ -19,6 +19,7 @@ There are certainly books on this list that have influeneced me more than others
 # Currently On Deck
 
 * My Inventions: The Autobiography of Nikola Tesla ➖ Nikola Tesla
+* Shadow Fall (Star Wars): An Alphabet Squadron Novel ➖ Alexander Freed
 
 # Table of Contents
 
