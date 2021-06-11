@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-27-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-332-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-28-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-333-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* The Scout Mindset: Why Some People See Things Clearly and Others Don't ➖ Julia Galef
 * My Inventions: The Autobiography of Nikola Tesla ➖ Nikola Tesla
 
 # Table of Contents
@@ -268,8 +267,9 @@ There are certainly books on this list that have influeneced me more than others
 * Band of Brothers :heavy_minus_sign: Stephen Ambrose
 
 
-## Personal / Self-Help
+## Personal / Self-Improvement
 
+* The Scout Mindset: Why Some People See Things Clearly and Others Don't ➖ Julia Galef
 * Working from Home: Making the New Normal Wokr for You ➖ Karen Mangia
 * Free to Focus: A Total Productivity System to Achieve More by Doing Less :heavy_minus_sign: Michael Hyatt
 * The Five Love Languages: The Secret to Love That Lasts :heavy_minus_sign: Gary Chapman
