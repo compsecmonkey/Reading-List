@@ -424,6 +424,10 @@ There are certainly books on this list that have influeneced me more than others
 
 These are technical books that I have not neccessarily read cover to cover but own as references. 
 
+### 3D Printing
+
+* 3D Printing Projects ➖ DK
+
 ### C
 
 * Power C
