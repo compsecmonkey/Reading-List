@@ -427,6 +427,7 @@ These are technical books that I have not neccessarily read cover to cover but o
 ### 3D Printing
 
 * 3D Printing Projects ➖ DK
+* The Zombie Apocalypse Guide to 3D Printing ➖ Clifford Smyth
 
 ### C
 
