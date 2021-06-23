@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-29-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-334-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-30-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-335-blue)
 
 #  My Reading List
 
@@ -18,7 +18,7 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* Shadow Fall (Star Wars): An Alphabet Squadron Novel ➖ Alexander Freed
+
 
 # Table of Contents
 
@@ -327,6 +327,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Fun
 
+* Shadow Fall (Star Wars): An Alphabet Squadron Novel ➖ Alexander Freed
 * Alphabet Squadron ➖ Alexander Freed
 * Star Wars: Thrawn Ascendancy (Book II: Greater Good) ➖ Timothy Zahn
 * Project Hail Mary ➖ Andy Weir
