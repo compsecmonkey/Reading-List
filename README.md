@@ -18,7 +18,7 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-
+* Victory's Price (Star Wars): An Alphabet Squadron Novel ➖ Alexander Freed
 
 # Table of Contents
 
