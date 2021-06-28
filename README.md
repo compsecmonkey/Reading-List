@@ -18,6 +18,7 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
+* The War on Science: Who's Waging It, Why It Matters, What We Can Do About It ➖ Shawn Lawrence Otto
 
 
 # Table of Contents
