@@ -20,6 +20,7 @@ There are certainly books on this list that have influeneced me more than others
 
 * Star Wars: Bloodline - New Republic ➖ Claudia Gray
 * Ranger Confidential ➖ Andrea Lankford
+* The Talent War ➖ Mike Sarraille
 
 
 # Table of Contents
