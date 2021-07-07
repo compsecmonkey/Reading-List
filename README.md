@@ -19,6 +19,7 @@ There are certainly books on this list that have influeneced me more than others
 # Currently On Deck
 
 * Star Wars: Bloodline - New Republic ➖ Claudia Gray
+* Ranger Confidential ➖ Andrea Lankford
 
 
 # Table of Contents
