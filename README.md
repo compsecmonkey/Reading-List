@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-31-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-336-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-32-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-337-blue)
 
 #  My Reading List
 
@@ -18,7 +18,7 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* The War on Science: Who's Waging It, Why It Matters, What We Can Do About It ➖ Shawn Lawrence Otto
+
 
 
 # Table of Contents
@@ -153,6 +153,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Science, Technology, Engineering, Math
 
+* The War on Science: Who's Waging It, Why It Matters, What We Can Do About It ➖ Shawn Lawrence Otto
 * Liftoff ➖ Eric Berger
 * The Pragmatic Programmer: 20th Anniversary Edition, 2nd Edition: Your Journey to Mastery ➖ David Thomas , Andrew Hunt
 * Spaceport Earth: The Reinvention of Spaceflight ➖ Joe Pappalardo
