@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-33-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-338-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-34-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-339-blue)
 
 #  My Reading List
 
@@ -19,7 +19,6 @@ There are certainly books on this list that have influeneced me more than others
 # Currently On Deck
 
 * Ranger Confidential ➖ Andrea Lankford
-* The Talent War ➖ Mike Sarraille
 
 
 # Table of Contents
@@ -55,6 +54,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Leadership and Team Building
 
+* The Talent War ➖ Mike Sarraille
 * Remote: Office Not Required ➖ Jason Fried , David Heinemeier Hansson
 * Drive: The Surprising Truth About What Motivates Us :heavy_minus_sign: Daniel H. Pink
 * The Art of HUNTING HUMANS: A radical and confronting explanation of the human mind :heavy_minus_sign: Sidney Mazzi
