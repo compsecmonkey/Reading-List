@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-34-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-339-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-35-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-340-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* Ranger Confidential ➖ Andrea Lankford
 
 
 # Table of Contents
@@ -98,6 +97,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Memoirs / Biographys 
 
+* Ranger Confidential ➖ Andrea Lankford
 * My Inventions: The Autobiography of Nikola Tesla ➖ Nikola Tesla
 * Bitcoin Billionaires ➖ Ben Mezrich
 * Steve Jobs ➖ Walter Isaacson
