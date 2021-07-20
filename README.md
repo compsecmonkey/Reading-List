@@ -18,6 +18,7 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
+* Elon Musk: A Mission to Save the World ➖ Anna Crowley Redding
 
 
 # Table of Contents
