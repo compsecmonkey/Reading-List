@@ -18,7 +18,7 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-
+* Resistance Reborn ➖ Rebecca Roanhorse
 
 
 # Table of Contents
