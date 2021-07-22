@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-36-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-341-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-37-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-342-blue)
 
 #  My Reading List
 
@@ -18,7 +18,7 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* Elon Musk: A Mission to Save the World ➖ Anna Crowley Redding
+
 
 
 # Table of Contents
@@ -98,6 +98,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Memoirs / Biographys 
 
+* Elon Musk: A Mission to Save the World ➖ Anna Crowley Redding
 * Ranger Confidential ➖ Andrea Lankford
 * My Inventions: The Autobiography of Nikola Tesla ➖ Nikola Tesla
 * Bitcoin Billionaires ➖ Ben Mezrich
