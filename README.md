@@ -19,6 +19,7 @@ There are certainly books on this list that have influeneced me more than others
 # Currently On Deck
 
 * The Secret Life of Groceries: The Dark Miracle of the American Supermarket ➖ Benjamin Lorr
+* Say What You Mean ➖ Oren Jay Sofer, Joseph Goldstein
 
 
 # Table of Contents
