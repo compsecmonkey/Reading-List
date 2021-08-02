@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-37-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-342-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-38-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-343-blue)
 
 #  My Reading List
 
@@ -18,7 +18,7 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* Resistance Reborn ➖ Rebecca Roanhorse
+
 
 
 # Table of Contents
@@ -332,6 +332,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Fun
 
+* Resistance Reborn ➖ Rebecca Roanhorse
 * Phasma ➖ Delilah S. Dawson
 * Star Wars: Bloodline - New Republic ➖ Claudia Gray
 * Victory's Price (Star Wars): An Alphabet Squadron Novel ➖ Alexander Freed
