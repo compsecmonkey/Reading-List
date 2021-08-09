@@ -19,7 +19,6 @@ There are certainly books on this list that have influeneced me more than others
 # Currently On Deck
 
 * Dooku: Jedi Lost ➖ Cavan Scott
-* Say What You Mean ➖ Oren Jay Sofer, Joseph Goldstein
 
 
 # Table of Contents
