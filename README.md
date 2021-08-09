@@ -20,6 +20,7 @@ There are certainly books on this list that have influeneced me more than others
 
 * Dooku: Jedi Lost ➖ Cavan Scott
 * Chasing the Moon: The People, the Politics, and the Promise That Launched America into the Space Age ➖ Robert Stone , Alan Andres
+* Kill It with Fire: Manage Aging Computer Systems ➖ Marianne Bellotti
 
 
 # Table of Contents
