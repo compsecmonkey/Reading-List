@@ -523,6 +523,8 @@ These are technical books that I have not neccessarily read cover to cover but o
 
 ### Python
 
+* Python Testing Cookbook ➖ Greg Turnquist
+* Python Testing ➖ Daniel Arbuckle
 * Phython One-Liners ➖Christian Mayer
 * Effective Python :heavy_minus_sign: Slatkin
 * Python Cookbook :heavy_minus_sign: Beazley, Jones
