@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-41-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-346-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-42-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-347-blue)
 
 #  My Reading List
 
@@ -20,7 +20,6 @@ There are certainly books on this list that have influeneced me more than others
 
 * Kill It with Fire: Manage Aging Computer Systems ➖ Marianne Bellotti
 * The DevOps Handbook ➖  Gene Kim, Patrick Debois, John Willis, and Jez Humble
-* Star Wars: The Rising Storm (The High Republic) ➖ Cavan Scott
 
 
 # Table of Contents
@@ -336,6 +335,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Fun
 
+* Star Wars: The Rising Storm (The High Republic) ➖ Cavan Scott
 * Dooku: Jedi Lost ➖ Cavan Scott
 * Resistance Reborn ➖ Rebecca Roanhorse
 * Phasma ➖ Delilah S. Dawson
