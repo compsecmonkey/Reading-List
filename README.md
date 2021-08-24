@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-42-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-347-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-43-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-348-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* Kill It with Fire: Manage Aging Computer Systems ➖ Marianne Bellotti
 * The DevOps Handbook ➖  Gene Kim, Patrick Debois, John Willis, and Jez Humble
 
 
@@ -157,6 +156,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Science, Technology, Engineering, Math
 
+* Kill It with Fire: Manage Aging Computer Systems ➖ Marianne Bellotti
 * Chasing the Moon: The People, the Politics, and the Promise That Launched America into the Space Age ➖ Robert Stone , Alan Andres
 * The Secret Life of Groceries: The Dark Miracle of the American Supermarket ➖ Benjamin Lorr
 * The War on Science: Who's Waging It, Why It Matters, What We Can Do About It ➖ Shawn Lawrence Otto
