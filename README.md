@@ -464,6 +464,7 @@ These are technical books that I have not neccessarily read cover to cover but o
 
 ### DevOps
 
+* gRPC up and Running - Building Cloud Native Applications with Go and Java for Docker and Kubernetes ➖ Kasun Indrasiri & Danesh Kuruppu
 * Cloud Native Infrastructure: Patterns for Scalable Infrastructure and Applications in Dynamic Enviornments ➖ Justin Garrison and Kris Nova
 * Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications :heavy_minus_sign: Bilgin Ibryam, Roland Hub
 * Microservice Architechture :heavy_minus_sign: Nadaeishvili, Mitra, McLarty, Amundsen
