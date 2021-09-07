@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* The DevOps Handbook ➖  Gene Kim, Patrick Debois, John Willis, and Jez Humble
 
 
 # Table of Contents
@@ -54,6 +53,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Leadership and Team Building
 
+* The DevOps Handbook ➖  Gene Kim, Patrick Debois, John Willis, and Jez Humble
 * The Talent War ➖ Mike Sarraille
 * Remote: Office Not Required ➖ Jason Fried , David Heinemeier Hansson
 * Drive: The Surprising Truth About What Motivates Us :heavy_minus_sign: Daniel H. Pink
