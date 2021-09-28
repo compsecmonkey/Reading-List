@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-45-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-350-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-46-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-351-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* The Fifty-Year Mission: The Next 25 Years: From the Next Generation to J. J. Abrams ➖ Edward Gross, Mark A. Altman
 * Peril ➖ Bob Woodward, Robert Costa
 
 # Table of Contents
@@ -337,6 +336,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Fun
 
+* The Fifty-Year Mission: The Next 25 Years: From the Next Generation to J. J. Abrams ➖ Edward Gross, Mark A. Altman
 * Star Wars: The Rising Storm (The High Republic) ➖ Cavan Scott
 * Dooku: Jedi Lost ➖ Cavan Scott
 * Resistance Reborn ➖ Rebecca Roanhorse
