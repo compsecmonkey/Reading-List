@@ -19,6 +19,7 @@ There are certainly books on this list that have influeneced me more than others
 # Currently On Deck
 
 * The Fifty-Year Mission: The Next 25 Years: From the Next Generation to J. J. Abrams ➖ Edward Gross, Mark A. Altman
+* Peril ➖ Bob Woodward, Robert Costa
 
 # Table of Contents
 
