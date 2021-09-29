@@ -19,6 +19,7 @@ There are certainly books on this list that have influeneced me more than others
 # Currently On Deck
 
 * Peril ➖ Bob Woodward, Robert Costa
+* Think Again ➖ Adam Grant
 
 # Table of Contents
 
