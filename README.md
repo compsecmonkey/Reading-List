@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* Peril ➖ Bob Woodward, Robert Costa
 * Think Again ➖ Adam Grant
 
 # Table of Contents
@@ -320,6 +319,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Politics 
 
+* Peril ➖ Bob Woodward, Robert Costa
 * Stealth War: How China Took Over While America's Elite Slept :heavy_minus_sign: Robert Spalding
 * The War On Normal People: The Truth About America's Disappearing Jobs and Why Universal Income Is Our Future :heavy_minus_sign: Andrew Yang
 * Atlas Shurgged :heavy_minus_sign: Ayn Rand
