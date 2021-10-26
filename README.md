@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-47-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-352-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-48-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-353-blue)
 
 #  My Reading List
 
@@ -19,7 +19,6 @@ There are certainly books on this list that have influeneced me more than others
 # Currently On Deck
 
 * Think Again ➖ Adam Grant
-* The Case for Mars ➖ Robert Zubrin
 
 # Table of Contents
 
@@ -157,6 +156,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Science, Technology, Engineering, Math
 
+* The Case for Mars ➖ Robert Zubrin
 * Kill It with Fire: Manage Aging Computer Systems ➖ Marianne Bellotti
 * Chasing the Moon: The People, the Politics, and the Promise That Launched America into the Space Age ➖ Robert Stone , Alan Andres
 * The Secret Life of Groceries: The Dark Miracle of the American Supermarket ➖ Benjamin Lorr
