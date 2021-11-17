@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-48-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-353-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-49-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-354-blue)
 
 #  My Reading List
 
@@ -18,7 +18,7 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* Think Again ➖ Adam Grant
+
 
 # Table of Contents
 
@@ -279,6 +279,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Personal / Self-Improvement
 
+* Think Again ➖ Adam Grant
 * The Scout Mindset: Why Some People See Things Clearly and Others Don't ➖ Julia Galef
 * Working from Home: Making the New Normal Wokr for You ➖ Karen Mangia
 * Free to Focus: A Total Productivity System to Achieve More by Doing Less :heavy_minus_sign: Michael Hyatt
