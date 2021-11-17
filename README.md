@@ -18,7 +18,7 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-
+* Star Wars: Thrawn Ascendancy (Book III: Lesser Evil) ➖ Timothy Zahn
 
 # Table of Contents
 
