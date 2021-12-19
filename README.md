@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-49-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-354-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-50-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-355-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* Star Wars: Thrawn Ascendancy (Book III: Lesser Evil) ➖ Timothy Zahn
 
 # Table of Contents
 
@@ -339,6 +338,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Fun
 
+* Star Wars: Thrawn Ascendancy (Book III: Lesser Evil) ➖ Timothy Zahn
 * The Fifty-Year Mission: The Next 25 Years: From the Next Generation to J. J. Abrams ➖ Edward Gross, Mark A. Altman
 * Star Wars: The Rising Storm (The High Republic) ➖ Cavan Scott
 * Dooku: Jedi Lost ➖ Cavan Scott
