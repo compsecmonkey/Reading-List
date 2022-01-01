@@ -1,4 +1,4 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-51-success)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-0-success)
 ![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-356-blue)
 
 #  My Reading List
@@ -582,3 +582,4 @@ Podcasts that I actively follow and enjoy. I tend to listen to podcasts in batch
 
 # Stats
 * 2020 - 75
+* 2021 - 51
