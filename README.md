@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-50-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-355-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-51-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-356-blue)
 
 #  My Reading List
 
@@ -19,7 +19,6 @@ There are certainly books on this list that have influeneced me more than others
 # Currently On Deck
 
 * Fuzz: When Nature Breaks the Law ➖ Mary Roach
-* Tom Clancy Chain of Command ➖ Marc Cameron
 
 # Table of Contents
 
@@ -340,6 +339,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Fun
 
+* Tom Clancy Chain of Command ➖ Marc Cameron
 * Star Wars: Thrawn Ascendancy (Book III: Lesser Evil) ➖ Timothy Zahn
 * The Fifty-Year Mission: The Next 25 Years: From the Next Generation to J. J. Abrams ➖ Edward Gross, Mark A. Altman
 * Star Wars: The Rising Storm (The High Republic) ➖ Cavan Scott
