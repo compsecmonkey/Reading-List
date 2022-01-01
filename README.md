@@ -18,6 +18,7 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
+* Tom Clancy Chain of Command ➖ Marc Cameron
 
 # Table of Contents
 
