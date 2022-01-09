@@ -19,6 +19,7 @@ There are certainly books on this list that have influeneced me more than others
 # Currently On Deck
 
 * Star Wars: The Fallen Star (The High Republic) ➖ Claudia Gray
+* Crucial Conversations (Third Edition) ➖ Joseph Grenny, Kerry Patterson, Ron McMillan, Al Switzler, Emily Gregory
 
 # Table of Contents
 
