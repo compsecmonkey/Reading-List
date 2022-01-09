@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-0-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-356-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-1-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-357-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* Fuzz: When Nature Breaks the Law ➖ Mary Roach
 
 # Table of Contents
 
@@ -330,6 +329,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Misc
 
+* Fuzz: When Nature Breaks the Law ➖ Mary Roach
 * The Speechwriter: A Brief Education in Politics ➖ Barton Swaim
 * The National Parks: America's Best Idea :heavy_minus_sign: Dayton Duncan , Ken Burns
 * On Grand Strategy :heavy_minus_sign: John Lewis Gaddis
