@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-1-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-357-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-2-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-358-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* Star Wars: The Fallen Star (The High Republic) ➖ Claudia Gray
 * Crucial Conversations (Third Edition) ➖ Joseph Grenny, Kerry Patterson, Ron McMillan, Al Switzler, Emily Gregory
 
 # Table of Contents
@@ -341,6 +340,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Fun
 
+* Star Wars: The Fallen Star (The High Republic) ➖ Claudia Gray
 * Tom Clancy Chain of Command ➖ Marc Cameron
 * Star Wars: Thrawn Ascendancy (Book III: Lesser Evil) ➖ Timothy Zahn
 * The Fifty-Year Mission: The Next 25 Years: From the Next Generation to J. J. Abrams ➖ Edward Gross, Mark A. Altman
