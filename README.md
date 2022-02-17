@@ -19,6 +19,7 @@ There are certainly books on this list that have influeneced me more than others
 # Currently On Deck
 
 * The Aspiring Leader's Guide to the Future ➖ Clay Scroggins
+* Flying Blind: The 737 MAX Tragedy and the Fall of Boeing ➖ Peter Robison
 
 # Table of Contents
 
