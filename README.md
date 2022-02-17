@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-2-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-358-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-3-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-359-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* Crucial Conversations (Third Edition) ➖ Joseph Grenny, Kerry Patterson, Ron McMillan, Al Switzler, Emily Gregory
 * The Aspiring Leader's Guide to the Future ➖ Clay Scroggins
 
 # Table of Contents
@@ -54,6 +53,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Leadership and Team Building
 
+* Crucial Conversations (Third Edition) ➖ Joseph Grenny, Kerry Patterson, Ron McMillan, Al Switzler, Emily Gregory
 * The DevOps Handbook ➖  Gene Kim, Patrick Debois, John Willis, and Jez Humble
 * The Talent War ➖ Mike Sarraille
 * Remote: Office Not Required ➖ Jason Fried , David Heinemeier Hansson
