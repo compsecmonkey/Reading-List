@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-4-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-360-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-5-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-361-blue)
 
 #  My Reading List
 
@@ -21,7 +21,7 @@ There are certainly books on this list that have influeneced me more than others
 * The Aspiring Leader's Guide to the Future ➖ Clay Scroggins
 * The Antisocial Network: The GameStop Short Squeeze and the Ragtag Group of Amateur Traders That Brought Wall Street to Its Knees ➖ Ben Mezrich
 * Accelerate: Building and Scaling High Performing Technology Organizations ➖ Nicole Forsgren PhD, Jez Humble, Gene Kim
-* Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones ➖ James Clear
+
 
 # Table of Contents
 
@@ -284,6 +284,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Personal / Self-Improvement
 
+* Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones ➖ James Clear
 * Think Again ➖ Adam Grant
 * The Scout Mindset: Why Some People See Things Clearly and Others Don't ➖ Julia Galef
 * Working from Home: Making the New Normal Wokr for You ➖ Karen Mangia
