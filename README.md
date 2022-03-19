@@ -477,6 +477,7 @@ These are technical books that I have not neccessarily read cover to cover but o
 
 ### DevOps
 
+* Hacking Kubernetes - Threat-Driven Analysis and Defense ➖ Andrew Martin & Michael Hausenblas
 * Kubernetes Operators - Automating the Container Ochestration Platform ➖ Jason Dobies & Joshua Wood
 * Container Security: Fundamental Technology Concepts that Prtect Containerized Applications ➖ Liz Rice
 * gRPC up and Running - Building Cloud Native Applications with Go and Java for Docker and Kubernetes ➖ Kasun Indrasiri & Danesh Kuruppu
