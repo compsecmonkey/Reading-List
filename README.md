@@ -477,6 +477,7 @@ These are technical books that I have not neccessarily read cover to cover but o
 
 ### DevOps
 
+* Kubernetes Operators - Automating the Container Ochestration Platform ➖ Jason Dobies & Joshua Wood
 * Container Security: Fundamental Technology Concepts that Prtect Containerized Applications ➖ Liz Rice
 * gRPC up and Running - Building Cloud Native Applications with Go and Java for Docker and Kubernetes ➖ Kasun Indrasiri & Danesh Kuruppu
 * Cloud Native Infrastructure: Patterns for Scalable Infrastructure and Applications in Dynamic Enviornments ➖ Justin Garrison and Kris Nova
