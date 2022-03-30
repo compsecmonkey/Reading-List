@@ -22,6 +22,7 @@ There are certainly books on this list that have influeneced me more than others
 * The Antisocial Network: The GameStop Short Squeeze and the Ragtag Group of Amateur Traders That Brought Wall Street to Its Knees ➖ Ben Mezrich
 * Accelerate: Building and Scaling High Performing Technology Organizations ➖ Nicole Forsgren PhD, Jez Humble, Gene Kim
 * Getting More: How You Can Negotiate to Succeed in Work and Life ➖ Stuart Diamond
+* This Is How They Tell Me the World Ends: The Cyberweapons Arms Race ➖ Nicole Perlroth
 
 
 # Table of Contents
