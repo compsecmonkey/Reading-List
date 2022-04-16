@@ -22,7 +22,6 @@ There are certainly books on this list that have influeneced me more than others
 * The Antisocial Network: The GameStop Short Squeeze and the Ragtag Group of Amateur Traders That Brought Wall Street to Its Knees ➖ Ben Mezrich
 * Accelerate: Building and Scaling High Performing Technology Organizations ➖ Nicole Forsgren PhD, Jez Humble, Gene Kim
 * Getting More: How You Can Negotiate to Succeed in Work and Life ➖ Stuart Diamond
-* This Is How They Tell Me the World Ends: The Cyberweapons Arms Race ➖ Nicole Perlroth
 
 
 # Table of Contents
@@ -132,6 +131,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Cyber
 
+* This Is How They Tell Me the World Ends: The Cyberweapons Arms Race ➖ Nicole Perlroth
 * The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics :heavy_minus_sign: Ben Buchanan
 * Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World :heavy_minus_sign: Joseph Menn
 * The Cuckoo's Egg:  Tracking a Spy Through the Maze of Computer Espionage :heavy_minus_sign: Cliff Stoll
