@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-6-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-362-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-7-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-363-blue)
 
 #  My Reading List
 
@@ -22,7 +22,6 @@ There are certainly books on this list that have influeneced me more than others
 * The Antisocial Network: The GameStop Short Squeeze and the Ragtag Group of Amateur Traders That Brought Wall Street to Its Knees ➖ Ben Mezrich
 * Accelerate: Building and Scaling High Performing Technology Organizations ➖ Nicole Forsgren PhD, Jez Humble, Gene Kim
 * Getting More: How You Can Negotiate to Succeed in Work and Life ➖ Stuart Diamond
-* Test Gods: Virgin Galactic and the Making of a Modern Astronaut ➖ Nicholas Schmidle
 
 
 # Table of Contents
@@ -163,6 +162,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Science, Technology, Engineering, Math
 
+* Test Gods: Virgin Galactic and the Making of a Modern Astronaut ➖ Nicholas Schmidle
 * Flying Blind: The 737 MAX Tragedy and the Fall of Boeing ➖ Peter Robison
 * The Case for Mars ➖ Robert Zubrin
 * Kill It with Fire: Manage Aging Computer Systems ➖ Marianne Bellotti
