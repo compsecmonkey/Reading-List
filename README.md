@@ -472,6 +472,7 @@ These are technical books that I have not neccessarily read cover to cover but o
 
 ### Data Analysis
 
+* Practical Data Analysis Using Jupyter Notebook ➖ Marc Wintjen
 * Discovering Knowledge in Data :heavy_minus_sign: Larose
 * Data-Driven Security: Analysis, Visualization, and Dashboards :heavy_minus_sign: Jacobs, Rudis
 
