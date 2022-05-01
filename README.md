@@ -472,6 +472,7 @@ These are technical books that I have not neccessarily read cover to cover but o
 
 ### Data Analysis
 
+* Hands-On Data Analysis with Pandas: A Python data science handbook for data collection, wrangling, analysis, and visualization ➖ Molin, Stefanie
 * Practical Data Analysis Using Jupyter Notebook ➖ Marc Wintjen
 * Discovering Knowledge in Data :heavy_minus_sign: Larose
 * Data-Driven Security: Analysis, Visualization, and Dashboards :heavy_minus_sign: Jacobs, Rudis
