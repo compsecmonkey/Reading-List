@@ -473,6 +473,7 @@ These are technical books that I have not neccessarily read cover to cover but o
 
 ### Data Analysis
 
+* Python Data Cleaning Cookbook ➖ Michael Walker
 * Truthful Art, The: Data, Charts, and Maps for Communication (Voices That Matter) ➖ Cairo, Alberto
 * Hands-On Data Analysis with Pandas: A Python data science handbook for data collection, wrangling, analysis, and visualization ➖ Molin, Stefanie
 * Practical Data Analysis Using Jupyter Notebook ➖ Marc Wintjen
