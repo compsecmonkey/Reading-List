@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-7-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-363-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-8-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-364-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* Rogue Squadron: Star Wars Legends ➖ Michael A. Stackpole
 * The Aspiring Leader's Guide to the Future ➖ Clay Scroggins
 * The Antisocial Network: The GameStop Short Squeeze and the Ragtag Group of Amateur Traders That Brought Wall Street to Its Knees ➖ Ben Mezrich
 * Accelerate: Building and Scaling High Performing Technology Organizations ➖ Nicole Forsgren PhD, Jez Humble, Gene Kim
@@ -350,6 +349,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Fun
 
+* Rogue Squadron: Star Wars Legends ➖ Michael A. Stackpole
 * Star Wars: The Fallen Star (The High Republic) ➖ Claudia Gray
 * Tom Clancy Chain of Command ➖ Marc Cameron
 * Star Wars: Thrawn Ascendancy (Book III: Lesser Evil) ➖ Timothy Zahn
