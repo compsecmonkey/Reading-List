@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-11-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-367-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-12-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-368-blue)
 
 #  My Reading List
 
@@ -22,7 +22,6 @@ There are certainly books on this list that have influeneced me more than others
 * The Antisocial Network: The GameStop Short Squeeze and the Ragtag Group of Amateur Traders That Brought Wall Street to Its Knees ➖ Ben Mezrich
 * Accelerate: Building and Scaling High Performing Technology Organizations ➖ Nicole Forsgren PhD, Jez Humble, Gene Kim
 * Getting More: How You Can Negotiate to Succeed in Work and Life ➖ Stuart Diamond
-* Tom Clancy Target Acquired ➖ Don Bentley
 
 
 # Table of Contents
@@ -352,6 +351,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Fun
 
+* Tom Clancy Target Acquired ➖ Don Bentley
 * Tom Clancy Zero Hour: A Jack Ryan Jr. Novel, Book 9 ➖ Don Bentley
 * Rogue Squadron: Star Wars Legends ➖ Michael A. Stackpole
 * Star Wars: The Fallen Star (The High Republic) ➖ Claudia Gray
