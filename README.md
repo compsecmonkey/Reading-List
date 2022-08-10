@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-12-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-368-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-13-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-369-blue)
 
 #  My Reading List
 
@@ -351,6 +351,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Fun
 
+* Harry Potter and the Sorcer's Stone ➖ J.K. Rowling
 * Tom Clancy Target Acquired ➖ Don Bentley
 * Tom Clancy Zero Hour: A Jack Ryan Jr. Novel, Book 9 ➖ Don Bentley
 * Rogue Squadron: Star Wars Legends ➖ Michael A. Stackpole
