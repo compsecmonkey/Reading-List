@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-18-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-374-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-19-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-375-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* Harry Potter and the Deathly Hallows ➖ J.K. Rowling
 * The Aspiring Leader's Guide to the Future ➖ Clay Scroggins
 * The Antisocial Network: The GameStop Short Squeeze and the Ragtag Group of Amateur Traders That Brought Wall Street to Its Knees ➖ Ben Mezrich
 * Accelerate: Building and Scaling High Performing Technology Organizations ➖ Nicole Forsgren PhD, Jez Humble, Gene Kim
@@ -352,6 +351,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Fun
 
+* Harry Potter and the Deathly Hallows ➖ J.K. Rowling
 * Harry Potter and the Half-Blood Prince ➖ J.K. Rowling
 * Harry Potter and the Order of the Phoenix ➖ J.K. Rowling
 * Harry Potter and the Goblet of Fire ➖ J.K. Rowling
