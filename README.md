@@ -20,8 +20,6 @@ There are certainly books on this list that have influeneced me more than others
 
 * The Aspiring Leader's Guide to the Future ➖ Clay Scroggins
 * The Antisocial Network: The GameStop Short Squeeze and the Ragtag Group of Amateur Traders That Brought Wall Street to Its Knees ➖ Ben Mezrich
-* Accelerate: Building and Scaling High Performing Technology Organizations ➖ Nicole Forsgren PhD, Jez Humble, Gene Kim
-
 
 
 # Table of Contents
@@ -57,6 +55,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Leadership and Team Building
 
+* Accelerate: Building and Scaling High Performing Technology Organizations ➖ Nicole Forsgren PhD, Jez Humble, Gene Kim
 * Crucial Conversations (Third Edition) ➖ Joseph Grenny, Kerry Patterson, Ron McMillan, Al Switzler, Emily Gregory
 * The DevOps Handbook ➖  Gene Kim, Patrick Debois, John Willis, and Jez Humble
 * The Talent War ➖ Mike Sarraille
