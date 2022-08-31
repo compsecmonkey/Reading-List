@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-19-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-375-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-20-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-376-blue)
 
 #  My Reading List
 
@@ -55,6 +55,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Leadership and Team Building
 
+* Making Work Visible: Exposing Time Theft to Optimize Work & flow ➖ Dominica Degrandis
 * Accelerate: Building and Scaling High Performing Technology Organizations ➖ Nicole Forsgren PhD, Jez Humble, Gene Kim
 * Crucial Conversations (Third Edition) ➖ Joseph Grenny, Kerry Patterson, Ron McMillan, Al Switzler, Emily Gregory
 * The DevOps Handbook ➖  Gene Kim, Patrick Debois, John Willis, and Jez Humble
