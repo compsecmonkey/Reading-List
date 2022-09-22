@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-20-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-376-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-21-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-377-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* Minuteman: A Technical History of the Missile That Defined American Nuclear Warfare ➖ David Stumpf
 * The Aspiring Leader's Guide to the Future ➖ Clay Scroggins
 * The Antisocial Network: The GameStop Short Squeeze and the Ragtag Group of Amateur Traders That Brought Wall Street to Its Knees ➖ Ben Mezrich
 
@@ -249,6 +248,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Military / Government
 
+* Minuteman: A Technical History of the Missile That Defined American Nuclear Warfare ➖ David Stumpf
 * Active Measures: The Secret History of Disinformation and Political Warfare ➖ Thomas Rid
 * The Shadow Factory: The Ultra-Secret NSA from 9/11 to the Eavesdropping on America ➖ James Bamford
 * Agent Zigzag: A True Story of Nazi Espionage, Love, and Betrayal :heavy_minus_sign: Ben MacIntyre
