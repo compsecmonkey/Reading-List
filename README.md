@@ -18,6 +18,7 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
+* The 300: The Inside Story of the Missile Defenders Guarding America Against Nuclear Attack ➖ Daniel Wasserbly
 * The Aspiring Leader's Guide to the Future ➖ Clay Scroggins
 * The Antisocial Network: The GameStop Short Squeeze and the Ragtag Group of Amateur Traders That Brought Wall Street to Its Knees ➖ Ben Mezrich
 
