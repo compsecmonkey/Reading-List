@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-22-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-378-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-23-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-379-blue)
 
 #  My Reading List
 
@@ -162,6 +162,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Science, Technology, Engineering, Math
 
+* Fear of a Black Universe: An Outsider's Guide to the Future of Physics ➖ Stephon Alexander
 * Stealth: The Secret Contest to Invent Invisible Aircraft ➖ Peter Westwick
 * Test Gods: Virgin Galactic and the Making of a Modern Astronaut ➖ Nicholas Schmidle
 * Flying Blind: The 737 MAX Tragedy and the Fall of Boeing ➖ Peter Robison
