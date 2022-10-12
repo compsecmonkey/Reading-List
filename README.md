@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-24-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-380-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-25-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-381-blue)
 
 #  My Reading List
 
@@ -250,6 +250,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Military / Government
 
+* Blind Man's Bluff: The Untold Story of American Submarine Espionage ➖ Sherry Sontag , Christopher Drew
 * The 300: The Inside Story of the Missile Defenders Guarding America Against Nuclear Attack ➖ Daniel Wasserbly
 * Minuteman: A Technical History of the Missile That Defined American Nuclear Warfare ➖ David Stumpf
 * Active Measures: The Secret History of Disinformation and Political Warfare ➖ Thomas Rid
