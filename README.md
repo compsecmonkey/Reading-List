@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-25-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-381-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-26-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-382-blue)
 
 #  My Reading List
 
@@ -20,7 +20,6 @@ There are certainly books on this list that have influeneced me more than others
 
 * The Aspiring Leader's Guide to the Future ➖ Clay Scroggins
 * The Antisocial Network: The GameStop Short Squeeze and the Ragtag Group of Amateur Traders That Brought Wall Street to Its Knees ➖ Ben Mezrich
-* The Idea Factory: Bell Labs and the Great Age of American Innovation ➖ Jon Gertner
 
 # Table of Contents
 
@@ -162,6 +161,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Science, Technology, Engineering, Math
 
+* The Idea Factory: Bell Labs and the Great Age of American Innovation ➖ Jon Gertner
 * Fear of a Black Universe: An Outsider's Guide to the Future of Physics ➖ Stephon Alexander
 * Stealth: The Secret Contest to Invent Invisible Aircraft ➖ Peter Westwick
 * Test Gods: Virgin Galactic and the Making of a Modern Astronaut ➖ Nicholas Schmidle
