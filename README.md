@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-27-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-383-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-28-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-384-blue)
 
 #  My Reading List
 
@@ -358,6 +358,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Fun
 
+* Tom Clancy Red Winter: A Jack Ryan Novel, Book 22 ➖ Marc Cameron
 * Harry Potter and the Deathly Hallows ➖ J.K. Rowling
 * Harry Potter and the Half-Blood Prince ➖ J.K. Rowling
 * Harry Potter and the Order of the Phoenix ➖ J.K. Rowling
