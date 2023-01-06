@@ -19,7 +19,7 @@ There are certainly books on this list that have influeneced me more than others
 # Currently On Deck
 
 * The Antisocial Network: The GameStop Short Squeeze and the Ragtag Group of Amateur Traders That Brought Wall Street to Its Knees ➖ Ben Mezrich
-* Paddle Your Own Canoe: One Man's Fundamentals for Delicious Living ➖ Nick Offerman
+
 
 # Table of Contents
 
@@ -102,6 +102,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Memoirs / Biographys 
 
+* Paddle Your Own Canoe: One Man's Fundamentals for Delicious Living ➖ Nick Offerman
 * Elon Musk: A Mission to Save the World ➖ Anna Crowley Redding
 * Ranger Confidential ➖ Andrea Lankford
 * My Inventions: The Autobiography of Nikola Tesla ➖ Nikola Tesla
