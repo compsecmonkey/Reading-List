@@ -33,6 +33,7 @@ There are certainly books on this list that have influeneced me more than others
 * [Politics](#Politics)
 * [Misc](#Misc)
 * [Fun](#Fun)
+* [100 Books to Read Before You Die](#100-Books-to-Read-Before-You-Die)
 * [Reference Books](#Reference-Books)
   * [C](#C)
   * [Data Analysis](#Data-Analysis)
@@ -472,7 +473,9 @@ There are certainly books on this list that have influeneced me more than others
 * Breakpoint :heavy_minus_sign: Richard A. Clarke
 * Red Sky :heavy_minus_sign: Mike Mulane
 
+## 100 Books to Read Before You Die
 
+* Fahrenheit 451 ➖ Ray Bradbury
 
 ## Reference Books
 
