@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-0-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-384-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-1-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-385-blue)
 
 #  My Reading List
 
