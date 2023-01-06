@@ -1,4 +1,4 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-28-success)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-0-success)
 ![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-384-blue)
 
 #  My Reading List
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* The Aspiring Leader's Guide to the Future ➖ Clay Scroggins
 * The Antisocial Network: The GameStop Short Squeeze and the Ragtag Group of Amateur Traders That Brought Wall Street to Its Knees ➖ Ben Mezrich
 * Paddle Your Own Canoe: One Man's Fundamentals for Delicious Living ➖ Nick Offerman
 
@@ -623,3 +622,4 @@ Podcasts that I actively follow and enjoy. I tend to listen to podcasts in batch
 # Stats
 * 2020 - 75
 * 2021 - 51
+* 2022 - 28
