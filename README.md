@@ -18,7 +18,7 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* The Antisocial Network: The GameStop Short Squeeze and the Ragtag Group of Amateur Traders That Brought Wall Street to Its Knees ➖ Ben Mezrich
+
 
 
 # Table of Contents
@@ -241,6 +241,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Financial
 
+* The Antisocial Network: The GameStop Short Squeeze and the Ragtag Group of Amateur Traders That Brought Wall Street to Its Knees ➖ Ben Mezrich
 * Invested: How  Warren Buffett and Charlie Munger Taught Me to Master My Mind, My Emotions,  and My Money (with a Little Help from My Dad) :heavy_minus_sign: Danielle Town, Phil Town
 * Financial Freedom:  A Proven Path to All the Money You Will Ever Need :heavy_minus_sign: Grant Sabatier,  Vicki Robin - foreword
 * The Dumb Things  Smart People Do with Their Money: Thirteen Ways to Right Your Financial  Wrongs :heavy_minus_sign: Jill Schlesinger
