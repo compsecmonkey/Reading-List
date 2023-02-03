@@ -18,7 +18,8 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-
+* Never Mind, We'll Do It Ourselves :heavy_minus_sign: Alec Beirbauer, Mark Cooter
+* Star Wars: Shadow of the Sith :heavy_minus_sign: Adam Christopher
 
 
 # Table of Contents
