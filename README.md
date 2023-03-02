@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-4-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-388-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-5-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-389-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* Never Mind, We'll Do It Ourselves :heavy_minus_sign: Alec Beirbauer, Mark Cooter
 * Star Wars: Shadow of the Sith :heavy_minus_sign: Adam Christopher
 
 
@@ -255,6 +254,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Military / Government
 
+* Never Mind, We'll Do It Ourselves :heavy_minus_sign: Alec Beirbauer, Mark Cooter
 * Dark Waters :heavy_minus_sign: Lee Vyborny
 * Blind Man's Bluff: The Untold Story of American Submarine Espionage ➖ Sherry Sontag , Christopher Drew
 * The 300: The Inside Story of the Missile Defenders Guarding America Against Nuclear Attack ➖ Daniel Wasserbly
