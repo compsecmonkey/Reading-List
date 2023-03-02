@@ -18,7 +18,7 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* Star Wars: Shadow of the Sith :heavy_minus_sign: Adam Christopher
+* The Rebel and the Kingdom :heavy_minus_sign: Bradley Hope
 
 
 # Table of Contents
