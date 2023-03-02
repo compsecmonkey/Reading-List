@@ -515,6 +515,7 @@ These are technical books that I have not neccessarily read cover to cover but o
 
 ### DevOps
 
+* The Book of Kubernetes: A Complete Guide to Container Orchastration :heavy_minus_sign: Alan Hohn
 * The Kubernetes Bible: The definitive guide to deploying and managing Kubernetes across major cloud platforms ➖ Kebbani, Nassim
 * Hacking Kubernetes - Threat-Driven Analysis and Defense ➖ Andrew Martin & Michael Hausenblas
 * Kubernetes Operators - Automating the Container Ochestration Platform ➖ Jason Dobies & Joshua Wood
