@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-6-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-390-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-7-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-391-blue)
 
 #  My Reading List
 
@@ -103,6 +103,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Memoirs / Biographys 
 
+* Spare :heavy_minus_sign: Prince Harry The Duke of Sussex
 * Paddle Your Own Canoe: One Man's Fundamentals for Delicious Living ➖ Nick Offerman
 * Elon Musk: A Mission to Save the World ➖ Anna Crowley Redding
 * Ranger Confidential ➖ Andrea Lankford
