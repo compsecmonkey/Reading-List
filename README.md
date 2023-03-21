@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-7-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-391-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-8-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-392-blue)
 
 #  My Reading List
 
@@ -18,7 +18,7 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* The Rebel and the Kingdom :heavy_minus_sign: Bradley Hope
+
 
 
 # Table of Contents
@@ -255,6 +255,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Military / Government
 
+* The Rebel and the Kingdom :heavy_minus_sign: Bradley Hope
 * The Bomber Mafia :heavy_minus_sign: Malcolm Gladwell
 * Never Mind, We'll Do It Ourselves :heavy_minus_sign: Alec Beirbauer, Mark Cooter
 * Dark Waters :heavy_minus_sign: Lee Vyborny
