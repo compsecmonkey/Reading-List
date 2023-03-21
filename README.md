@@ -18,7 +18,7 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-
+* We Are All Targets: How Renegade Hackers Invented Cyber War and Unleashed an Age of Global Chaos :heavy_minus_sign: Matt Potter
 
 
 # Table of Contents
