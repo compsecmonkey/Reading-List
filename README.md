@@ -1,5 +1,5 @@
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-8-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-392-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-9-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-393-blue)
 
 #  My Reading List
 
@@ -18,7 +18,6 @@ There are certainly books on this list that have influeneced me more than others
 
 # Currently On Deck
 
-* We Are All Targets: How Renegade Hackers Invented Cyber War and Unleashed an Age of Global Chaos :heavy_minus_sign: Matt Potter
 * Alan Turing: The Enigma :heavy_minus_sign: Andrew Hodges
 
 
@@ -134,6 +133,7 @@ There are certainly books on this list that have influeneced me more than others
 
 ## Cyber
 
+* We Are All Targets: How Renegade Hackers Invented Cyber War and Unleashed an Age of Global Chaos :heavy_minus_sign: Matt Potter
 * This Is How They Tell Me the World Ends: The Cyberweapons Arms Race ➖ Nicole Perlroth
 * The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics :heavy_minus_sign: Ben Buchanan
 * Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World :heavy_minus_sign: Joseph Menn
